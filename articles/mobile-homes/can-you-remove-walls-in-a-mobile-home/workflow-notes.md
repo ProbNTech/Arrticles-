@@ -142,6 +142,5 @@ No sections overlap. Wiring is covered only in "Usually Safe". Engineers are cov
 
 ## Final word count check
 
-- **Article body** (H1 through the disclosure line, prose only, excluding placeholder and partial-source tags): about 1,304 words. Including the tags and the raw source text, it is about 1,346 words.
-- **Target:** 1,200–1,300. The prose is within about 0.3% of the top of the range.
-- The article is not more than 10% under target, so no gap statement is required.
+- **Updated after QA pass (see qa-report.md).** Article body (H1 through the disclosure line): 1,424 words by `wc -w`; about 1,412 words excluding placeholder tags and link URLs.
+- **Target:** 1,200–1,300 (±10% ceiling = 1,430). The body is within tolerance, near the upper limit, after adding sourced cost figures and the Rocky Hedge Farm account details. Do not add further text without trimming elsewhere.

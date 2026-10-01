@@ -14,12 +14,12 @@ Can you remove walls in a mobile home? Learn which walls are load-bearing, when 
 
 ## 4. FAQ schema suggestions
 
-These questions are not answered directly in a dedicated body section. Every answer uses only what the article already establishes. Claims the article still tags [VERIFY] are worded with care, and those answers should be re-checked once the tags are resolved.
+These questions are not answered directly in a dedicated body section. Every answer uses only what the article already establishes. No answer relies on a claim the article still tags [VERIFY]. Answer 3 rests on the single-wide shear-wall point, which still carries a [PARTIAL SOURCE] note in the article.
 
 1. **Can I remove a wall in my mobile home myself?** A non-load-bearing partition wall may be a reasonable project. Wiring or plumbing inside the wall needs a licensed electrician or plumber. Any exterior wall, marriage wall or shear wall needs a structural engineer's design and a licensed contractor.
-2. **Will removing a wall affect selling or insuring my mobile home?** It can. Unpermitted structural changes may cause problems when you sell or insure the home, so check permit requirements with your local building department first.
-3. **Can I remove a wall in a single-wide mobile home?** Many single-wides have few or no load-bearing interior walls. Some have interior shear walls that brace the home against wind, so have a professional confirm what a wall does before you remove it.
-4. **Who can tell me which walls in my mobile home are structural?** Start with the original floor plan. Your manufacturer may be able to help if you give them the serial number from the data plate. For a final answer, ask a structural engineer who works on manufactured homes.
+2. **Why is the marriage wall thicker than other interior walls?** A marriage wall is really two walls joined together, one from each half of the double-wide. It sits on the marriage line and supports the roof ridge beam, so it is load-bearing.
+3. **Can I remove a wall in a single-wide mobile home?** Some single-wides have interior shear walls that brace the home against wind, even when no interior wall holds up the roof. Have a structural engineer confirm what a wall does before you remove it.
+4. **Who can tell me which walls in my mobile home are structural?** Start with the original floor plan; the data plate lists the manufacturer and serial number to request it. For a final answer, ask a structural engineer who works on manufactured homes.
 
 ```json
 {
@@ -36,10 +36,10 @@ These questions are not answered directly in a dedicated body section. Every ans
     },
     {
       "@type": "Question",
-      "name": "Will removing a wall affect selling or insuring my mobile home?",
+      "name": "Why is the marriage wall thicker than other interior walls?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It can. Unpermitted structural changes may cause problems when you sell or insure the home, so check permit requirements with your local building department first."
+        "text": "A marriage wall is really two walls joined together, one from each half of the double-wide. It sits on the marriage line and supports the roof ridge beam, so it is load-bearing."
       }
     },
     {
@@ -47,7 +47,7 @@ These questions are not answered directly in a dedicated body section. Every ans
       "name": "Can I remove a wall in a single-wide mobile home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Many single-wides have few or no load-bearing interior walls, but some have interior shear walls that brace the home against wind. Have a professional confirm what a wall does before removing it."
+        "text": "Some single-wides have interior shear walls that brace the home against wind, even when no interior wall holds up the roof. Have a structural engineer confirm what a wall does before removing it."
       }
     },
     {
@@ -55,7 +55,7 @@ These questions are not answered directly in a dedicated body section. Every ans
       "name": "Who can tell me which walls in my mobile home are structural?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Start with the original floor plan and your manufacturer, using the serial number on the data plate. For a definitive answer, consult a structural engineer experienced with manufactured homes."
+        "text": "Start with the original floor plan, using the manufacturer and serial number on the data plate to request it. For a definitive answer, consult a structural engineer experienced with manufactured homes."
       }
     }
   ]
@@ -88,7 +88,7 @@ These questions are not answered directly in a dedicated body section. Every ans
 
 ## 6. HowTo schema
 
-The search intent is informational / how-to. Because this topic is structural, the steps cover planning and verification only. They contain no demolition steps, and they follow only what the article establishes. `totalTime` and `estimatedCost` are left out because the article sets no time estimate and the costs are still marked [COST NEEDED].
+The search intent is informational / how-to. Because this topic is structural, the steps cover planning and verification only. They contain no demolition steps, and they follow only what the article establishes. `totalTime` and `estimatedCost` are left out because the article sets no time estimate and the load-bearing wall cost is still marked [COST NEEDED] (only non-load-bearing and engineer-fee ranges are sourced).
 
 - Tools (reusable): stud finder
 - Supplies (consumables): none established in the article
@@ -144,16 +144,16 @@ The search intent is informational / how-to. Because this topic is structural, t
 
 ## 7. BreadcrumbList schema
 
-The brief has no pillar/cluster field. The breadcrumb below is suggested from the category path (Home > Mobile Homes > This Article). Replace `https://example.com` with the live domain.
+The brief has no pillar/cluster field. The breadcrumb below is suggested from the category path (Home > Mobile Homes > This Article). Replace `{{SITE_URL}}` with the live domain.
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "https://example.com/mobile-homes/" },
-    { "@type": "ListItem", "position": 3, "name": "Can You Remove Walls in a Mobile Home?", "item": "https://example.com/mobile-homes/remove-walls-in-mobile-home/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "{{SITE_URL}}/mobile-homes/" },
+    { "@type": "ListItem", "position": 3, "name": "Can You Remove Walls in a Mobile Home?", "item": "{{SITE_URL}}/mobile-homes/remove-walls-in-mobile-home/" }
   ]
 }
 ```
@@ -171,6 +171,13 @@ The brief has no pillar/cluster field. The breadcrumb below is suggested from th
 
 ## 9. Internal link suggestions
 
+Sibling articles (link these):
+- [Mobile home renovation cost](/mobile-home-renovation-cost/) — from the cost section
+- [Kitchen ideas for a mobile home remodel](/kitchen-ideas-for-mobile-home-remodel/) — from the kitchen/living room open-plan discussion
+- [Mobile home roof replacement cost](/mobile-home-roof-replacement-cost/) — near the roof-leak risk in the marriage wall section
+- [How to modernize your home interior](/how-to-modernize-your-home-interior/) — from the cleanup and wall-finish paragraph
+
+Plain topic suggestions (no sibling article yet):
 - How to read a manufactured home data plate and HUD label
 - Mobile home marriage line problems: gaps, leaks and sagging
 - Hiring a structural engineer: what they do and what it costs
@@ -178,5 +185,3 @@ The brief has no pillar/cluster field. The breadcrumb below is suggested from th
 - Replacing vinyl wall panels with drywall in a mobile home
 - Mobile home rewiring and electrical safety basics
 - Mobile home leveling and pier inspection
-- Mobile home roof leaks: causes and fixes
-- Double-wide open floor plan remodeling ideas
