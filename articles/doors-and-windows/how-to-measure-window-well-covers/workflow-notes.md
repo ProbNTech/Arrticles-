@@ -64,4 +64,4 @@ Overlap flag: the original "common mistakes" list repeated Steps 2–5. It was r
 - Excluded sources: pages.dev measuring pages and oreateai.com (they look AI-generated); Reddit (no relevant post found)
 
 ## Final word count check
-article.md body (H1 through conclusion, excluding front matter, H1, disclosure and tag text): **about 1,628 words** including the Quick Answer box (about 1,570 without it). The target is 1,500–1,600, so it is within range and slightly over when the Quick Answer is counted. The article is not more than 10% under target, so no gap statement is needed.
+QA pass (2026-10-01), counted with `wc -w`: article.md body from intro through conclusion (excluding front matter, H1 and disclosure line) is **1,676 words** including the 57-word Quick Answer box (about 1,619 without it). Target 1,500–1,600; the +10% ceiling is 1,760, so the article is within tolerance and no trim was required.

@@ -4,7 +4,7 @@
 Ideas for Window Well Covers: 12 Smart, Safe Options (52 characters)
 
 ## 2. Meta description
-Explore ideas for window well covers, from clear polycarbonate and steel grates to DIY builds and planters, plus egress safety tips. Find your fit. (148 characters)
+Explore ideas for window well covers, from clear polycarbonate and steel grates to DIY builds and planters, plus egress safety tips. Find your fit. (147 characters)
 
 ## 3. URL slug
 `ideas-for-window-well-covers`
@@ -15,9 +15,9 @@ These questions are not answered directly in the body. The answers use only what
 1. **Can I put a lock on a window well cover over an egress window?**
    Not if the lock needs a key or tool. The IRC model code requires covers over egress window wells to release from inside without a key, tool, or special knowledge. Check your local code as well.
 2. **Can I install a window well cover myself, or should I hire a pro?**
-   Simple drop-in or clip-down covers are a common DIY job. Hire a professional for custom fits, egress questions, or anything involving outdoor wiring.
+   Simple covers, such as a clear sheet held down with clips, are within reach for many DIYers. For an egress well, ask your local building department to review your plan, and hire a licensed electrician for any hard-wired outdoor lighting.
 3. **Do I need a different cover for a non-egress basement window?**
-   Non-egress windows don't have the push-open rule, so you have more freedom. Heavier or fixed covers may work there, but still check local rules.
+   The push-open rule applies to covers over emergency escape openings, so a non-egress window gives you more freedom in material and weight. Still check local rules before you choose.
 4. **Will a clear window well cover turn yellow?**
    Polycarbonate can yellow in sunlight unless it has a UV-protective coating. Acrylic resists yellowing better but is less impact-resistant.
 
@@ -39,7 +39,7 @@ These questions are not answered directly in the body. The answers use only what
       "name": "Can I install a window well cover myself, or should I hire a pro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Simple drop-in or clip-down covers are a common DIY job. Hire a professional for custom fits, egress questions, or anything involving outdoor wiring."
+        "text": "Simple covers, such as a clear sheet held down with clips, are within reach for many DIYers. For an egress well, ask your local building department to review your plan, and hire a licensed electrician for any hard-wired outdoor lighting."
       }
     },
     {
@@ -47,7 +47,7 @@ These questions are not answered directly in the body. The answers use only what
       "name": "Do I need a different cover for a non-egress basement window?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Non-egress windows don't have the push-open rule, so you have more freedom. Heavier or fixed covers may work there, but still check local rules."
+        "text": "The push-open rule applies to covers over emergency escape openings, so a non-egress window gives you more freedom in material and weight. Still check local rules before you choose."
       }
     },
     {
@@ -92,9 +92,9 @@ Home > Doors and Windows > Ideas for Window Well Covers. Use the site's real URL
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "[SITE URL]" },
-    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "[SITE URL]/doors-and-windows/" },
-    { "@type": "ListItem", "position": 3, "name": "Ideas for Window Well Covers", "item": "[SITE URL]/doors-and-windows/ideas-for-window-well-covers/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}" },
+    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "{{SITE_URL}}/doors-and-windows/" },
+    { "@type": "ListItem", "position": 3, "name": "Ideas for Window Well Covers", "item": "{{SITE_URL}}/doors-and-windows/ideas-for-window-well-covers/" }
   ]
 }
 ```
@@ -106,7 +106,7 @@ Home > Doors and Windows > Ideas for Window Well Covers. Use the site's real URL
 4. **In the dress-up section.** A view from inside the basement of a window well with planters and gravel. Alt text: "Window well ideas with planters and gravel seen from a basement window."
 
 ## 9. Internal link suggestions
-- How to measure window well covers. This is the sibling article and should be linked from the cost section, where it is already mentioned.
+- [How to measure window well covers](/how-to-measure-window-well-covers/). This sibling article is now linked from the cost section.
 - Egress window requirements and installation.
 - Basement waterproofing and window well drainage.
 - Basement window treatments and coverings for the inside of the window.

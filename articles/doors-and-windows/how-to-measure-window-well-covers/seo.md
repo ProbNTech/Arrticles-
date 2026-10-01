@@ -18,8 +18,8 @@ These questions are not answered in a dedicated section of the body. Answers use
    Yes, but a helper makes it easier. One person holds the tape against the house while the other reads the far end, and a rigid metal tape stays straight across the open well.
 3. **Should I give the seller my well size or the cover size?**
    Ask the seller first. Some want the raw well measurements and add the overhang themselves, so giving them a size that already includes overhang can make the cover too big.
-4. **What if my window well is made of stone or doesn't have a standard shape?**
-   Make a full-size cardboard template by pressing it against the rim and tracing the outline. Then measure the widest width and deepest projection from the template, and ask whether the cover maker accepts templates or photos.
+4. **How much does a window well cover cost?**
+   HomeAdvisor puts lightweight plastic covers at about $70 to $200 and metal covers at about $300 to $700, with labor around $40 to $100 per cover.
 
 ```json
 {
@@ -52,10 +52,10 @@ These questions are not answered in a dedicated section of the body. Answers use
     },
     {
       "@type": "Question",
-      "name": "What if my window well is made of stone or doesn't have a standard shape?",
+      "name": "How much does a window well cover cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Make a full-size cardboard template by pressing it against the rim and tracing the outline. Then measure the widest width and deepest projection from the template, and ask whether the cover maker accepts templates or photos."
+        "text": "HomeAdvisor puts lightweight plastic covers at about $70 to $200 and metal covers at about $300 to $700, with labor around $40 to $100 per cover."
       }
     }
   ]
@@ -86,7 +86,7 @@ These questions are not answered in a dedicated section of the body. Answers use
 ```
 
 ## 6. HowTo schema
-The brief's intent is "informational," but the body is a measuring procedure, so HowTo markup is offered as optional. totalTime and estimatedCost are omitted: no time estimate was sourced, and the cost figure in the article is still marked PARTIAL SOURCE.
+The brief's intent is "informational," but the body is a measuring procedure, so HowTo markup is offered as optional. totalTime and estimatedCost are omitted: no time estimate was sourced, and measuring itself has no cost (the HomeAdvisor figures in the article are for buying and installing a cover).
 
 ```json
 {
@@ -114,7 +114,7 @@ The brief's intent is "informational," but the body is a measuring procedure, so
     {
       "@type": "HowToStep",
       "name": "Measure the width",
-      "text": "Measure straight across, level, along the house from where one side of the well meets the house to where the other side does, outside edge to outside edge, to the nearest 1/8 inch."
+      "text": "Measure straight across, level, along the house from where one side of the well meets the house to where the other side does, outside edge to outside edge, to the nearest 1/8 inch, then follow the seller's rounding rule."
     },
     {
       "@type": "HowToStep",
@@ -141,16 +141,16 @@ The brief's intent is "informational," but the body is a measuring procedure, so
 ```
 
 ## 7. BreadcrumbList schema
-Home > Doors and Windows > How to Measure Window Well Covers. No domain was provided, so `item` URLs are left as placeholders to fill in.
+Home > Doors and Windows > How to Measure Window Well Covers. No domain was provided, so `item` URLs use the `{{SITE_URL}}` placeholder.
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "[SITE URL]" },
-    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "[SITE URL]/doors-and-windows/" },
-    { "@type": "ListItem", "position": 3, "name": "How to Measure Window Well Covers", "item": "[SITE URL]/doors-and-windows/how-to-measure-window-well-covers/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}" },
+    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "{{SITE_URL}}/doors-and-windows/" },
+    { "@type": "ListItem", "position": 3, "name": "How to Measure Window Well Covers", "item": "{{SITE_URL}}/doors-and-windows/how-to-measure-window-well-covers/" }
   ]
 }
 ```
@@ -166,7 +166,7 @@ Home > Doors and Windows > How to Measure Window Well Covers. No domain was prov
    Alt text: "Hinged egress window well cover open above a basement window well with a ladder"
 
 ## 9. Internal link suggestions
-- Ideas for window well covers (sibling article; link from the intro or the overhang section, where readers move from sizing to choosing a style)
+- [Ideas for window well covers](/ideas-for-window-well-covers/) (sibling article; link from the intro or the overhang section, where readers move from sizing to choosing a style)
 - How to install window well covers (fastening, clips, drilling)
 - Egress window requirements for basement bedrooms
 - How to install or replace a window well

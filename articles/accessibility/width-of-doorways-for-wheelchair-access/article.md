@@ -13,7 +13,7 @@ Someone you love is coming home in a wheelchair. You roll it up to the bathroom 
 
 Getting the width of doorways for wheelchair access right isn't just about one number. It depends on how a door is measured, how wide the chair really is, and how much room there is on either side of the opening. Our editorial team pulled together the federal design standards, cost data, and advice from a contractor who has also been a caregiver, which you'll find further down. Start with the number most people search for.
 
-> **Quick answer:** A doorway for wheelchair access should give at least 32 inches of clear width, measured from the face of the open door to the opposite doorstop with the door open 90 degrees. Many experts and builders prefer 36 inches for easier passage, especially for wider power chairs or tight turns.
+> **Quick answer:** A doorway for wheelchair access should give at least 32 inches of clear width, measured from the face of the open door to the opposite doorstop with the door open 90 degrees. If you can, aim for 36 inches. The extra room helps with wider power chairs, hands on the wheels, and tight turns.
 
 ## How wide does a doorway need to be for a wheelchair?
 
@@ -21,7 +21,7 @@ The common benchmark comes from the 2010 ADA Standards for Accessible Design und
 
 The same section adds a detail many guides skip. If the opening is more than 24 inches deep, like a short passage through a thick wall, it must provide 36 inches of clear width.
 
-So 32 inches is the floor, not the goal. A doorway that's barely 32 inches wide works for many manual wheelchair users, but hands on the push rims or a crooked approach can turn "fits" into "scrapes." That's why many planners aim for 36 inches wide when a project allows it.
+So 32 inches is the floor, not the goal. A doorway that's barely 32 inches wide works for many manual wheelchair users, but hands on the push rims or a crooked approach can turn "fits" into "scrapes." That's why it makes sense to aim for 36 inches when a project allows it.
 
 The tricky part is that "32 inches" almost never means a 32-inch door.
 
@@ -47,9 +47,9 @@ Next, measure the person and the chair, not just the doorway.
 
 There's no single standard wheelchair. Seat width, wheel style, and armrests all change the overall width.
 
-- **Manual wheelchair:** Adult chairs are often around 23 to 27 inches wide overall, depending on seat width. [VERIFY]
-- **Transport wheelchair:** These have small rear wheels and are pushed by a helper, so they tend to run narrower than self-propelled chairs. [VERIFY]
-- **Power chair:** Widths vary widely by model, and larger or heavy-duty models can exceed 30 inches. [VERIFY]
+- **Manual wheelchair:** [Rehabmart's wheelchair width guide](https://www.rehabmart.com/post/how-wide-are-wheelchairs) says to add about 8 inches to the seat width. A standard 18-inch seat makes a chair about 26 inches wide, and most manual chairs run 24 to 28 inches overall.
+- **Transport wheelchair:** These have small rear wheels and are pushed by a helper. The same Rehabmart guide notes that the smaller wheels make them narrower than self-propelled chairs.
+- **Power chair:** Widths vary widely by model. Many standard power chairs are around 25 to 26 inches wide, while full-size and heavy-duty models can run 30 to 34 inches. [PARTIAL SOURCE: https://www.1800wheelchair.com/news/what-is-the-average-size-of-a-electric-wheelchair/ — verify before publishing]
 
 Measure the widest point of the chair, usually across the rear wheels or the hand rims, with the person seated. Then add room for hands and elbows if the person using the wheelchair pushes themselves. If you're purchasing a wheelchair soon, compare its overall width against your tightest doorway before you buy.
 
@@ -87,9 +87,9 @@ When a few inches won't do it, the rough opening in the wall has to get bigger. 
 
 ## How much does it cost to widen a doorway?
 
-[Angi's 2026 cost guide for widening a doorway for wheelchair access](https://www.angi.com/articles/widen-doorway-cost.htm) puts the range at $50 to $3,000, with most homeowners paying around $1,200. Simple fixes like hinges sit at the low end.
+[Angi's 2026 cost guide for widening a doorway for wheelchair access](https://www.angi.com/articles/widen-doorway-cost.htm) puts the range at $50 to $3,000, with most homeowners paying around $1,200. Simple jobs on a non-load-bearing wall sit at the low end.
 
-A load-bearing wall that needs an engineer and a new header can cost more. [COST NEEDED] Permits add to the total. [COST NEEDED]
+A load-bearing wall that needs an engineer and a new header costs more, often around $1,200 to $6,000. [PARTIAL SOURCE: https://www.angi.com/articles/widening-doorway-cost.htm — verify before publishing] Permits add to the total. [COST NEEDED]
 
 Get at least two written quotes. Ask each contractor whether the wall is load-bearing and whether a permit is included.
 

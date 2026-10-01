@@ -69,4 +69,4 @@ Overlap check: hallway/turning space vs contractor section both mention turning 
 Sources cited in article: 9.
 
 ## Final word count check
-article.md body (after front matter, link URLs excluded, including H1, headings, tags and disclosure line): ~1,507 words; prose body without H1/tags ~1,490. Target 1,400-1,500. Within range; no gap statement needed.
+article.md body (after front matter, link URLs excluded, including H1, headings, tags and disclosure line): ~1,507 words at draft. After QA pass (2026-10-01): 1,564 words by `wc -w` (includes the two [PARTIAL SOURCE] tag URLs, ~20 words). Target 1,400-1,500; within the +/-10% QA tolerance (max ~1,595-1,650).

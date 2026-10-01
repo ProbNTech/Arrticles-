@@ -86,16 +86,16 @@ Questions are limited to angles the body does not answer in a dedicated section.
 Not applicable: search intent is informational, not how-to.
 
 ## 7. BreadcrumbList schema
-No pillar/cluster field was given in the brief; suggested structure if this sits in the Accessibility category. Replace the placeholder domain with the real site URL.
+No pillar/cluster field was given in the brief; suggested structure if this sits in the Accessibility category. `{{SITE_URL}}` is a placeholder for the live site URL.
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Accessibility", "item": "https://example.com/accessibility/" },
-    { "@type": "ListItem", "position": 3, "name": "Width of Doorways for Wheelchair Access", "item": "https://example.com/accessibility/width-of-doorways-for-wheelchair-access/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Accessibility", "item": "{{SITE_URL}}/accessibility/" },
+    { "@type": "ListItem", "position": 3, "name": "Width of Doorways for Wheelchair Access", "item": "{{SITE_URL}}/accessibility/width-of-doorways-for-wheelchair-access/" }
   ]
 }
 ```
@@ -107,9 +107,10 @@ No pillar/cluster field was given in the brief; suggested structure if this sits
 4. **Under "Swap in offset hinges"** - Close-up photo of an offset (swing-clear) hinge on an open interior door, showing the door swung clear of the frame. Alt text: "Offset hinge letting a door swing clear of the frame to widen a doorway for a wheelchair."
 
 ## 9. Internal link suggestions
+- [Handicap bathroom remodel cost](/handicap-bathroom-remodel-cost/) - from the turning-space and bathroom mentions
+- [Pocket door for a small bathroom](/pocket-door-for-small-bathroom/) - from "Remove the door or change the swing"
+- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/) - from the load-bearing wall note in "Widen the opening" (relevant for mobile-home readers)
 - How to build or buy a wheelchair ramp for your home's entry
-- Accessible bathroom remodel: roll-in showers, grab bars, and turning space
-- Pocket doors vs. barn doors: pros, cons, and installation
 - How to tell if a wall is load-bearing (and when to call a pro)
 - Lever door handles and other aging-in-place hardware upgrades
 - Threshold ramps and transitions for wheelchairs between rooms

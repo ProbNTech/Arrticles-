@@ -19,7 +19,7 @@ A good cover does four jobs. It lets **natural light** reach the basement. It ke
 
 That last job matters most. The International Residential Code (IRC), the model code many U.S. areas adopt, says covers, grates, and similar devices over emergency escape openings and their window wells must be [releasable or removable from the inside without a key, tool, special knowledge, or extra force](https://co.routt.co.us/DocumentCenter/View/15206). That means no padlocks, no screws you have to back out, and nothing too heavy for a child to push open. Local codes can change or add to the IRC, so check with your local building department before you buy or build a cover for an egress window well [VERIFY].
 
-The IRC also calls for a permanently attached ladder or steps in egress wells deeper than 44 inches [VERIFY]. Any cover you pick should leave room to use that ladder.
+The [2021 IRC (Section R310.4.2) calls for a permanently attached ladder or steps](https://codes.iccsafe.org/s/IRC2021P2/part-iii-building-planning-and-construction/IRC2021P2-Pt03-Ch03-SecR310.4.2) in window wells deeper than 44 inches. Your local version of the code may differ, so confirm it locally. Any cover you pick should leave room to use that ladder.
 
 With those basics set, the fun part is choosing a style.
 
@@ -99,9 +99,9 @@ Of course, your budget will shape which ideas make the cut.
 
 ## How much do window well covers cost?
 
-Prices vary a lot by material, size, and whether the cover is custom. Basic plastic covers cost [COST NEEDED]. Standard polycarbonate covers cost [COST NEEDED], and metal or custom covers cost more [COST NEEDED] [PARTIAL SOURCE: https://www.homeadvisor.com/cost/doors-and-windows/install-a-window-well-cover/ — verify before publishing].
+Prices vary a lot by material, size, and whether the cover is custom. [HomeAdvisor's window well cover cost guide](https://www.homeadvisor.com/cost/doors-and-windows/install-a-window-well-cover/) puts basic plastic covers at $70 to $200 and polycarbonate covers at $200 to $300. Metal covers, which are usually a grate or bracing with polycarbonate on top, run $300 to $700, and high-end custom metalwork can reach $2,000 per well. Other cost guides quote somewhat different ranges, so treat these as ballpark figures [PARTIAL SOURCE: https://homeguide.com/costs/window-well-replacement-cost — verify before publishing].
 
-For a real-world benchmark, custom polycarbonate covers from regional makers were listed from [$329 at Diamondback Manufacturing](https://diamondbackman.com/product/custom-polycarbonate-window-well/) to [$519 at Mountainland Covers](https://mountainlandcovers.com/product/window-well-cover-polycarbonate/), both as sale prices, when our team checked in fall 2026 [VERIFY]. Custom covers need exact measurements first. Our guide on how to measure window well covers walks through that step.
+For a real-world benchmark, custom polycarbonate covers from regional makers were listed from [$329 at Diamondback Manufacturing](https://diamondbackman.com/product/custom-polycarbonate-window-well/) to [$519 at Mountainland Covers](https://mountainlandcovers.com/product/window-well-cover-polycarbonate/), both as sale prices, when our team checked in fall 2026 [VERIFY]. Custom covers need exact measurements first. Our guide on [how to measure window well covers](/how-to-measure-window-well-covers/) walks through that step.
 
 ## What homeowners and inspectors have learned
 
@@ -109,7 +109,7 @@ Real-world feedback tends to center on two lessons. First, weight. In a [DoItYou
 
 Second, durability. Thin plastic covers can crack or warp after a few winters [USER EXPERIENCE NEEDED].
 
-A home inspector's view of what fails in egress wells would round out this picture [EXAMPLE NEEDED]. Until then, the takeaway from the thread is clear: your cover choice is a safety decision, not just a style one.
+A home inspector's view of what fails in egress wells would round out this picture [EXAMPLE NEEDED]. The takeaway from the thread is clear: your cover choice is a safety decision, not just a style one.
 
 ## How to pick the right idea for your basement window
 

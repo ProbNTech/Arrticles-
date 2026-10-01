@@ -63,4 +63,4 @@ The gap is that few of them tie each idea to egress safety. That includes the IR
 - Sources cited as inline links: 9 unique URLs, plus 2 more URLs inside PARTIAL SOURCE notes.
 
 ## Final word count check
-The article body is 1,523 words, not counting link URLs or the front matter. The target was 1,500–1,600, so the article is within range and no gap statement is needed.
+After the QA pass, the article body is 1,584 words (`wc -w`, front matter excluded). The target was 1,500–1,600, so the article is within range and no gap statement is needed. The three [COST NEEDED] tags and the 44-inch ladder [VERIFY] were resolved in the QA pass (see qa-report.md).

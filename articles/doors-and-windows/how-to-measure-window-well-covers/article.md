@@ -13,7 +13,7 @@ You order a new cover, wait for it to arrive, and set it over the well. It's an 
 
 Most bad fits come from measuring the wrong spot, not from a bad cover. Our editorial team pulled together guidance from window well makers, the model building code, and one DIY blogger who built custom covers from a cardboard template. Here's how to measure window well covers so the size you order is the size that fits.
 
-> **Quick answer:** To measure for a window well cover, measure the width straight across where the well meets the house, from outer edge to outer edge. Then measure the projection from the house to the farthest point of the well's rim. Record both to the nearest 1/8 inch, note the well's shape, and add about 1 inch of overhang.
+> **Quick answer:** To measure for a window well cover, measure the width straight across where the well meets the house, from outer edge to outer edge. Then measure the projection from the house to the farthest point of the well's rim. Record both precisely, note the well's shape, and plan for about 1 inch of overhang.
 
 ## What do you need before you start?
 
@@ -36,13 +36,13 @@ Here's the key idea: measure the **outside** of the well, not the inside. Most c
 
 ### Step 1: Clean off the rim and find the outer edge
 
-Pull back mulch, rock, or soil until you can see the whole top edge of the well. Many corrugated metal wells have a flange or lip where they attach to the house, and some have a lip at the top edge too. [VERIFY] Decide where your outer edge is, and use that same point for every measurement.
+Pull back mulch, rock, or soil until you can see the whole top edge of the well. Many corrugated metal wells have a flat flange where they bolt to the house and a rolled lip along the top edge. [PARTIAL SOURCE: https://surebuilt-usa.com/products/window-wells/ — verify before publishing] Decide where your outer edge is, and use that same point for every measurement.
 
 ### Step 2: Measure the width
 
 Hold the end of the tape where one side of the well meets the house. Run it straight across, level, to the point where the other side meets the house. This matches the method in [Window Well Supply's guide](https://windowwellsupply.com/how-to-measure-for-a-window-well-cover/): a horizontal measurement along the house where the well touches it.
 
-Measure to the outside of the rim or flange on both ends. Write the number down to the nearest 1/8 inch. Several cover makers ask for that level of detail, since custom covers are cut to your numbers. [PARTIAL SOURCE: https://www.guardiancovers.com/how-to/measuring-guides-videos/ — verify before publishing]
+Measure to the outside of the rim or flange on both ends. Write the exact number down, to the nearest 1/8 inch if you can. Then follow the seller's own rounding rule, since makers differ. Guardian's measuring guides, for example, ask you to round up to the nearest half inch for some rectangular covers. [PARTIAL SOURCE: https://www.guardiancovers.com/how-to/measuring-guides-videos/ — verify before publishing]
 
 ### Step 3: Measure the projection
 
@@ -58,7 +58,7 @@ Older metal wells can get pushed out of shape by soil and frost. Measure the pro
 
 If the window frame rises higher than the top of the well, a flat cover won't work. You'll likely need a sloped cover that leans against the house.
 
-To size one, measure from the top of the well to the top of the window frame on both the left and right sides. Also tell the maker what kind of window you have, such as a slider, double-hung, crank-out, or glass block. The window type can affect which cover fits. [PARTIAL SOURCE: https://windowwellexperts.com/blog/how-to-measure-window-well-covers/ — verify before publishing]
+To size one, [Window Well Experts' measuring guide](https://windowwellexperts.com/blog/how-to-measure-window-well-covers/) says to measure from the top of the well to the top of the window frame on both the left and right sides. Also tell the maker what kind of window you have, such as a slider or crank-out, since the window type can affect which cover fits. [VERIFY]
 
 Sloped covers usually fasten to the house, which can mean drilling into siding, brick, or the foundation. If you're unsure what's behind the wall, have a professional handle the install.
 
@@ -91,7 +91,7 @@ Yes. An egress window is an emergency exit, often for a basement bedroom, so the
 
 Under the International Residential Code (IRC), an egress window well needs at least 9 square feet of floor area, with a projection and width of at least 36 inches each. Wells deeper than 44 inches need a permanent ladder or steps. These figures come from [a 2021 IRC egress handout published by the City of Spearfish](https://www.spearfish.gov/DocumentCenter/View/5232/Egress-Window-Handout-PDF). States and towns adopt and amend the IRC on their own, so confirm the rules with your local building department before you buy. [VERIFY]
 
-For the cover, the IRC says covers and grates over an escape opening must be removable or able to open from the inside without a key, tool, or special knowledge. [PARTIAL SOURCE: https://www.jaspector.com/codes/irc-2024/ch03-building-planning/egress-window-requirements-irc-2024/ — verify before publishing] Some sources also cite a maximum opening force. [VERIFY]
+For the cover, the IRC says covers and grates over an escape opening must release or come off from the inside without a key, tool, or special knowledge. It also can't take more force than opening the escape window normally does. [PARTIAL SOURCE: https://www.jaspector.com/codes/irc-2024/ch03-building-planning/egress-window-requirements-irc-2024/ — verify before publishing]
 
 That affects your measuring in two ways:
 
@@ -104,7 +104,7 @@ If you're adding a new egress window, have a licensed contractor and your local 
 
 A gap along one edge lets in the leaves, snow, and rainwater the cover was meant to stop. A loose cover can also shift in wind or under snow.
 
-It also costs money. Window well covers range from about $30 to as much as $2,000 for high-end custom designs, with labor around $40 to $100 per well. [PARTIAL SOURCE: https://www.homeadvisor.com/cost/doors-and-windows/install-a-window-well-cover/ — verify before publishing] Before you order, read your numbers back against each labeled well one more time.
+It also costs money. [HomeAdvisor's window well cover cost guide](https://www.homeadvisor.com/cost/doors-and-windows/install-a-window-well-cover/) puts lightweight plastic covers at about $70 to $200 and metal covers at about $300 to $700, with labor around $40 to $100 per cover. Before you order, read your numbers back against each labeled well one more time.
 
 ## Your next step
 
