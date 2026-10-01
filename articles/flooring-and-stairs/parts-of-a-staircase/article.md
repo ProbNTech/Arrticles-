@@ -37,7 +37,7 @@ Let's start with what your feet actually touch.
 
 The tread is the horizontal part of the stair you step on. On hardwood stairs, the wood treads are on show. On carpeted stairs, they're covered up.
 
-The riser is the vertical part of the stair between each tread. It closes the gap so your toe doesn't slip under the next step. Some modern designs leave this space empty. That's called an open riser staircase, and it looks light and airy.
+The riser is the vertical part of the stair between each tread. It closes the gap so your toe doesn't slip under the next step. Some modern designs leave this space empty. That's called an open riser staircase, and it looks light and airy. Where the stairs sit more than 30 inches above the floor below, the model IRC says the gap between treads must not let [a 4-inch sphere pass through on open riser stairs](https://resources.viewrail.com/code-compliance/stair-code/open-riser-code-requirements). [VERIFY]
 
 The nosing is the front edge of the stair tread that sticks out past the riser below. That small overhang gives your foot more room. The model International Residential Code (IRC) calls for a nosing of 3/4 inch to 1 1/4 inches on stairs with solid risers, but it isn't required when the tread is at least 11 inches deep, according to [this IRC stair tread and riser guide from Viewrail](https://resources.viewrail.com/code-compliance/stair-code/tread-depth-and-risers). [VERIFY]
 
@@ -65,7 +65,7 @@ Next up is the part most people notice first.
 
 **The handrail** is the rail you slide your hand along. It may sit on top of the balusters or be fixed to the wall with brackets. The model IRC sets handrail height at 34 to 38 inches, measured straight up from the line of the tread nosings, according to [this summary of IRC 2018 section R311.7](https://www.jaspector.com/codes/irc-2018/ch03-building-planning/stairway-tread-riser-handrail-details-irc-2018/). [VERIFY]
 
-**Balusters** are the vertical posts under the handrail. They fill the open, unprotected side of a stair so people can't fall through. "Spindle" is the casual word, often used for turned wood balusters, while baluster covers any material, from wood to hollow tubular steel. Their spacing matters for safety, especially with small kids, and the exact gap limit is set by code. [VERIFY]
+**Balusters** are the vertical posts under the handrail. They fill the open, unprotected side of a stair so people can't fall through. "Spindle" is the casual word, often used for turned wood balusters, while baluster covers any material, from wood to hollow tubular steel. Their spacing matters for safety, especially with small kids. The model IRC says a guard opening must not let [a 4-inch sphere pass through](https://resources.viewrail.com/code-compliance/railing-code/4-sphere-rule), with a slightly larger 4 3/8-inch allowance on the open side of a stair, per [this summary of IRC 2018 section R312.1.3](https://www.jaspector.com/codes/irc-2018/ch03-building-planning/guard-height-baluster-spacing-irc-2018/). [VERIFY]
 
 **Newel posts** are the thick posts that anchor the railing, usually at the bottom of the staircase, the top, and any landing or turn. A loose newel post makes the whole railing wobble.
 
@@ -96,13 +96,13 @@ When a staircase changes direction, it uses a landing, winders, or both.
 
 A landing is a flat platform between two flights of stairs. It gives you a spot to rest and lets the stairs turn in an L or U shape.
 
-Winders are wedge-shaped steps, wider on one side than the other. They allow the staircase to turn without a full landing, which saves space. The narrow end can be tricky to walk on, so code sets minimum winder tread depths, too. [VERIFY]
+Winders are wedge-shaped steps, wider on one side than the other. They allow the staircase to turn without a full landing, which saves space. The narrow end can be tricky to walk on. The model IRC calls for [winder treads at least 10 inches deep at the walkline and at least 6 inches deep at the narrow end](https://resources.viewrail.com/code-compliance/stair-code/winder-staircase-code-requirements). [VERIFY]
 
 Each of these parts also has size rules tied to safety.
 
 ## Why Stair Part Sizes Matter for Safety and Code
 
-A study published in 2017 in the *American Journal of Emergency Medicine* estimated that [1,076,558 people a year were treated in U.S. emergency departments for stair-related injuries](https://www.sciencedirect.com/science/article/abs/pii/S0735675717307593) between 1990 and 2012.
+A study published in 2017 in the *American Journal of Emergency Medicine* estimated that [an average of 1,076,558 people a year were treated in U.S. emergency departments for stair-related injuries](https://www.sciencedirect.com/science/article/abs/pii/S0735675717307593) between 1990 and 2012.
 
 That's why the model IRC sets limits on each part. For example, it calls for a maximum riser height of 7 3/4 inches and a minimum tread depth of 10 inches, as shown in [the City of Boise's 2022 IRC handout on stair treads and risers](https://www.cityofboise.org/media/14405/437-treads-risers_march-2022.pdf). [VERIFY] Your town may use a different code edition or local changes, so treat these numbers as a starting point, not a final rule.
 
@@ -110,7 +110,7 @@ That's why the model IRC sets limits on each part. For example, it calls for a m
 
 ## What Stair Builders and Homeowners Say
 
-Stair makers can be frank about how design choices change a job. Australian stair builder Oz Stair notes on its [construction methods page](https://ozstair.com.au/construction-methods/) that a closed stringer staircase is the most cost-effective construction method, with treads and risers grooved into the stringer, then glued and wedged into one solid flight. So the stringer style you pick can affect your price.
+Stair makers can be frank about how design choices change a job. Australian stair builder Oz Stair notes on its [construction methods page](https://ozstair.com.au/construction-methods/) that a closed stringer staircase is the most cost-effective construction method. The treads and risers are grooved into the stringer, then glued and wedged into one solid flight. So the stringer style you pick can affect your price.
 
 [USER EXPERIENCE NEEDED]
 

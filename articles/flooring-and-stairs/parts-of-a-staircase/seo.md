@@ -15,11 +15,11 @@ What are the parts of a staircase called? Learn treads, risers, stringers, newel
 Questions below are not answered in a dedicated body section. Answers use only information established in the article.
 
 1. **Can I replace stair balusters myself, or do I need a pro?**
-   Balusters are part of the railing that keeps people from falling off the open side of a stair, and their spacing is set by code. Check with your local building department and consider a licensed contractor before changing the railing.
+   Balusters are part of the railing that keeps people from falling off the open side of a stair, and the model building code limits the gaps between them. Local rules vary, so check with your local building department and consider a licensed contractor before changing the railing.
 2. **What part of the stairs should I check first if my railing wobbles?**
    Start with the newel posts, the thick posts at the bottom, top and turns of the staircase. A loose newel post makes the whole railing wobble.
 3. **Are open riser stairs a good idea in a home with small children?**
-   Open riser stairs leave the space between treads empty, and gaps on stairs are limited by code for child safety. Confirm the rules with your local building department before choosing this style.
+   Open riser stairs leave the space between treads empty, and the model building code limits that gap on stairs set well above the floor below. Local rules vary, so confirm them with your local building department before choosing this style.
 4. **Does the type of stringer change what a staircase costs?**
    It can. Stair builder Oz Stair describes the closed stringer staircase as the most cost-effective construction method, so ask each builder which stringer type their quote includes.
 
@@ -33,7 +33,7 @@ Questions below are not answered in a dedicated body section. Answers use only i
       "name": "Can I replace stair balusters myself, or do I need a pro?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Balusters are part of the railing that keeps people from falling off the open side of a stair, and their spacing is set by code. Check with your local building department and consider a licensed contractor before changing the railing."
+        "text": "Balusters are part of the railing that keeps people from falling off the open side of a stair, and the model building code limits the gaps between them. Local rules vary, so check with your local building department and consider a licensed contractor before changing the railing."
       }
     },
     {
@@ -49,7 +49,7 @@ Questions below are not answered in a dedicated body section. Answers use only i
       "name": "Are open riser stairs a good idea in a home with small children?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Open riser stairs leave the space between treads empty, and gaps on stairs are limited by code for child safety. Confirm the rules with your local building department before choosing this style."
+        "text": "Open riser stairs leave the space between treads empty, and the model building code limits that gap on stairs set well above the floor below. Local rules vary, so confirm them with your local building department before choosing this style."
       }
     },
     {
@@ -113,6 +113,8 @@ Home > Flooring and Stairs > What Are the Parts of a Staircase Called? (URLs lef
    Alt text: "Stair landing versus winder steps for a staircase that changes direction"
 
 ## 9. Internal link suggestions
+- [How to install hardwood flooring](/how-to-install-hardwood-flooring/) (link from the hardwood stair treads mention in the treads section)
+- [How to modernize your home interior](/how-to-modernize-your-home-interior/) (link from the railing or decorative parts section, for stair makeovers)
 - How to replace or refinish stair treads (hardwood stair treads, re-capping)
 - Carpet vs. hardwood stairs
 - How to fix a loose or wobbly newel post / stair railing

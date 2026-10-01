@@ -79,4 +79,6 @@ Sources cited in article: 7 unique URLs.
 ## Final word count check
 Article body (excluding front matter, H1 and URLs; including table text, quick answer and disclosure line): **1,593 words**. Target: 1,500-1,600. Within range, so no gap statement is required. Unresolved tags: [VERIFY] x8, [USER EXPERIENCE NEEDED] x1.
 
+**QA pass update (2026-10-01):** After QA edits (added sourced IRC baluster 4" sphere, open riser and winder depth figures), the body is **1,666 words** (excluding front matter, H1, table pipes and URLs). Target 1,500-1,600; within the ±10% tolerance (max 1,760). Unresolved tags: [VERIFY] x9, [USER EXPERIENCE NEEDED] x1. See qa-report.md.
+
 **Recommend before publishing:** an editor with working web access should (a) open each cited page to confirm wording, since WebFetch was blocked; (b) find a real homeowner or US contractor account for the experience section; (c) confirm the IRC numbers against the 2024 IRC.
