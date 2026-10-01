@@ -65,13 +65,13 @@ With a cleared room in front of you, paint is the next big win.
 
 A fresh coat of paint changes the look and feel of a room faster than almost anything else. Soft whites, warm neutrals, and muted sage tones read as current; faux finishes and yellowed trim don't.
 
-Homeowners seem to agree. In the [National Association of Realtors' 2025 Remodeling Impact Report](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report), painting one interior room earned a perfect Joy Score of 10, a measure of how happy owners were with the finished project. In the same report, [50% of Realtors suggested sellers paint the entire home and 41% suggested painting a single room](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report) before listing.
+Homeowners seem to agree. In the [National Association of Realtors' 2025 Remodeling Impact Report](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report), painting one interior room earned a perfect Joy Score of 10 [VERIFY], a measure of how happy owners were with the finished project. In the same report, [50% of Realtors suggested sellers paint the entire home and 41% suggested painting a single room](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report) before listing [VERIFY].
 
-Hiring a painter for a whole interior costs [COST NEEDED] [PARTIAL SOURCE: https://www.angi.com/articles/how-much-does-it-cost-paint-interior-house.htm — verify before publishing]. Doing it yourself cuts the bill down to paint and supplies.
+Hiring a painter for a whole interior typically costs [$965 to $3,089, with an average of about $2,022, according to Angi](https://www.angi.com/articles/how-much-does-it-cost-paint-interior-house.htm). Home size drives most of that price. Doing it yourself cuts the bill down to paint and supplies.
 
 Don't stop at the walls:
 
-- **Trim and baseboards:** A clean white, or the same shade as the walls, gives a seamless look.
+- **Trim and baseboards:** A clean white, or the same shade as the walls, makes the room look clean and unbroken.
 - **Interior doors:** A deep color like charcoal or navy feels like a high-end detail.
 - **Cabinets and vanities:** Dated wood can be painted, as long as you clean, sand, and prime first so the finish lasts.
 
@@ -85,9 +85,9 @@ Lighting is the most underrated update. Many older homes rely on one overhead li
 
 Replacing even one old light, like the dining room chandelier or a vanity strip with round bulbs, can give the room a fresh look. Pendants, drum shades, slim vanity bars, and wall sconces in your chosen finish all look modern.
 
-Replacing a light fixture typically costs [COST NEEDED] [PARTIAL SOURCE: https://homeguide.com/costs/cost-to-replace-or-repair-a-light-fixture — verify before publishing], depending on the fixture and the wiring behind it.
+Replacing a light fixture typically costs [$100 to $700 with professional installation, according to HomeGuide](https://homeguide.com/costs/cost-to-replace-or-repair-a-light-fixture), depending on the fixture and the wiring behind it.
 
-**Safety first:** Swapping a fixture means working with household wiring, often from a ladder. Unless you're trained and confident, hire a licensed electrician. Rules on when a permit or inspection is required vary by state and city, so check with your local building department before you start [VERIFY]. Adding new circuits, new switch locations, or hardwired sconces where none existed is a job for a licensed pro, and the work must meet the electrical code your area has adopted, which is usually based on the National Electrical Code (NEC) [VERIFY]. For any ceiling work, set the ladder on firm, level ground and have a helper steady it.
+**Safety first:** Swapping a fixture means working with household wiring, often from a ladder. Unless you're trained and confident, hire a licensed electrician. Rules on when a permit or inspection is required vary by state and city, so check with your local building department before you start [VERIFY]. Adding new circuits, new switch locations, or hardwired sconces where none existed is a job for a licensed pro. That work must meet the electrical code your area has adopted. Most local codes are based on the National Electrical Code (NEC) [VERIFY]. For any ceiling work, set the ladder on firm, level ground and have a helper steady it.
 
 Want to skip wiring altogether? Plug-in wall sconces and modern floor and table lamps add layers of light without touching the electrical panel.
 
@@ -95,20 +95,18 @@ Want to skip wiring altogether? Plug-in wall sconces and modern floor and table 
 
 Bulb color is measured in kelvin (K). Warm white, around 2700K to 3000K, is a common pick for living rooms and bedrooms [PARTIAL SOURCE: https://the-edit.lumens.com/the-guides/understanding-kelvin-color-temperature/ — verify before publishing]. Higher numbers look cooler and bluer.
 
-If you still have old incandescent bulbs, switching to LED is one of the simple ways to update your home. The [U.S. Department of Energy says LEDs use at least 75% less energy and can last 25 times longer](https://www.energy.gov/energysaver/lighting-choices-save-you-money#:~:text&) than incandescent lighting. Smart bulbs add easy dimming with no new wiring.
+If you still have old incandescent bulbs, switching to LED is one of the simple ways to update your home. The [U.S. Department of Energy says LEDs use at least 75% less energy and can last up to 25 times longer](https://www.energy.gov/energysaver/lighting-choices-save-you-money) than incandescent lighting. Smart bulbs add easy dimming with no new wiring.
 
 Good light shows off every detail, so next up are the small finishes you touch every day.
 
 ## Swap Out Old Hardware and Small Fixtures
-
-Small parts you touch every day add up fast.
 
 - **Cabinet hardware:** New knobs and pulls are a quick update for kitchen cabinets and bathroom vanities. Match the old hole spacing to avoid drilling and patching.
 - **Switch plates and outlet covers:** Trading yellowed plastic for clean white, matte black, or brushed metal covers costs little. If you notice scorch marks, loose outlets, or warm switches, stop and call a licensed electrician.
 - **Interior door hardware:** Lever handles in your chosen finish look newer than old brass knobs.
 - **Old faucets:** A new faucet is a common DIY job; call a plumber if you're unsure about shutoff valves or supply lines.
 
-Prices vary by brand and finish [COST NEEDED]. Once the details match, look at the biggest surfaces: windows and floors.
+New knobs and pulls run about [$1 to $30 per piece for most materials, or $6 to $60 per piece installed, according to HomeGuide](https://homeguide.com/costs/cost-to-install-cabinet-hardware). Once the details match, look at the biggest surfaces: windows and floors.
 
 ## Refresh Curtains, Window Treatments, and Floors
 
@@ -120,7 +118,7 @@ Heavy drapes and dusty blinds date a room fast. Lighter options let in more dayl
 
 Hang rods higher and wider than the window frame so windows look bigger and ceilings taller. Use a sturdy step stool and a helper when working overhead.
 
-Floors cost more, but they make a huge difference. Luxury vinyl plank and laminate are budget-friendly choices that mimic wood. Real hardwood costs more but holds its value: [NAR's 2025 report estimates new wood flooring recovers about 118% of its cost](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report) at resale. If you already have hardwood hiding under carpet, refinishing it may cost less than replacing it [COST NEEDED].
+Floors cost more, but they make a huge difference. Luxury vinyl plank and laminate are budget-friendly choices that mimic wood. Real hardwood costs more but holds its value: [NAR's 2025 report estimates new wood flooring recovers about 118% of its cost](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report) at resale. If you already have hardwood hiding under carpet, price out refinishing before you replace it. [Refinishing typically costs $3 to $8 per square foot, or $1,100 to $2,700 on average, according to NerdWallet](https://www.nerdwallet.com/home-ownership/home-improvement/learn/cost-to-refinish-hardwood-floors).
 
 Not ready for new floors? A large, simple area rug can hide dated flooring for now. Next come the rooms that usually need the most help.
 
@@ -132,7 +130,7 @@ Kitchens and bathrooms date fastest because they're full of fixed finishes, but 
 
 - **Paint or reface kitchen cabinets.** If the cabinet boxes are solid, refacing replaces doors and drawer fronts while keeping the frames.
 - **Update the backsplash.** Simple subway tile or larger tile looks more current than busy mosaic patterns.
-- **Change countertops last.** New countertops make a big impact, but they're usually the priciest piece [COST NEEDED].
+- **Change countertops last.** New countertops make a big impact, but they're usually the priciest piece. [Countertop installation averages $1,882 to $4,485, or about $40 to $150 per square foot installed, according to Angi](https://www.angi.com/articles/how-much-does-it-cost-install-countertops.htm).
 - **Match the faucet and pendant lights** to your metal finish.
 
 **In the bathroom:**
@@ -142,7 +140,7 @@ Kitchens and bathrooms date fastest because they're full of fixed finishes, but 
 - Regrout dingy tile or paint the vanity.
 - Add new towel bars and a fresh shower curtain.
 
-In NAR's 2025 report, [a kitchen upgrade also earned a Joy Score of 10](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report).
+In NAR's 2025 report, [a kitchen upgrade also earned a Joy Score of 10](https://www.nar.realtor/newsroom/top-remodeling-projects-for-homeowner-satisfaction-and-cost-recovery-revealed-in-nar-report) [VERIFY].
 
 Thinking of removing a wall to open up the kitchen? Some walls carry the weight of the house. Never remove or cut into a wall until a licensed contractor or structural engineer confirms whether it's load-bearing. Permit rules for this kind of work vary by location [VERIFY].
 
@@ -173,6 +171,6 @@ A simple rule: do the free and "$" rows first, one room at a time. Then live wit
 
 The most useful thing to remember is that modern doesn't mean new. It means light, uncluttered, and consistent. A home with fresh paint, warm layered lighting, and matching finishes will feel current even if the cabinets are twenty years old.
 
-So here's your next step for today. Walk through your home, take a photo of each room from the doorway, and circle the three details that date it most. Pick the cheapest fix on that list and tackle it this weekend. Small wins build momentum.
+So here's your next step for today. Walk through your home, take a photo of each room from the doorway, and circle the three details that date it most. Pick the cheapest fix on that list and tackle it this weekend.
 
 *Reviewed by our editorial team, informed by licensed professionals and industry sources cited above.*

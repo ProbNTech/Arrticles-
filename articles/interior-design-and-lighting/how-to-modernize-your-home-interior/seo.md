@@ -23,7 +23,7 @@ These questions are not answered in a dedicated section of the body. Answers use
    Focus on changes that don't alter the building: decluttering, plug-in wall sconces, floor and table lamps, new curtains and rods, and large area rugs. Ask your landlord before painting or swapping fixtures or hardware.
 
 3. **Does modernizing your interior add value to your home?**
-   Some updates can. The National Association of Realtors' 2025 Remodeling Impact Report estimates new wood flooring recovers about 118% of its cost at resale, and half of Realtors surveyed suggested sellers paint the entire home before listing.
+   Some updates can. The National Association of Realtors' 2025 Remodeling Impact Report estimates new wood flooring recovers about 118% of its cost at resale.
 
 4. **Which home updates can I DIY, and which need a pro?**
    Decluttering, painting, swapping cabinet hardware, and hanging new curtains are common DIY projects. Electrical work like new fixtures or circuits, and any wall removal, should go to a licensed electrician, contractor, or structural engineer.
@@ -54,7 +54,7 @@ These questions are not answered in a dedicated section of the body. Answers use
       "name": "Does modernizing your interior add value to your home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Some updates can. The National Association of Realtors' 2025 Remodeling Impact Report estimates new wood flooring recovers about 118% of its cost at resale, and half of Realtors surveyed suggested sellers paint the entire home before listing."
+        "text": "Some updates can. The National Association of Realtors' 2025 Remodeling Impact Report estimates new wood flooring recovers about 118% of its cost at resale."
       }
     },
     {
@@ -100,7 +100,7 @@ Not output. The brief's search intent is **informational**, and the HowTo elemen
 
 ## 7. BreadcrumbList schema
 
-The brief has no pillar/cluster field; this is offered as a suggestion based on the category folder. Replace the placeholder domain before use.
+The brief has no pillar/cluster field; this is offered as a suggestion based on the category folder. Replace `{{SITE_URL}}` with the live domain before use.
 
 ```json
 {
@@ -111,19 +111,19 @@ The brief has no pillar/cluster field; this is offered as a suggestion based on 
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://example.com/"
+      "item": "{{SITE_URL}}/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Interior Design and Lighting",
-      "item": "https://example.com/interior-design-and-lighting/"
+      "item": "{{SITE_URL}}/interior-design-and-lighting/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "How to Modernize Your Home Interior",
-      "item": "https://example.com/interior-design-and-lighting/how-to-modernize-your-home-interior/"
+      "item": "{{SITE_URL}}/interior-design-and-lighting/how-to-modernize-your-home-interior/"
     }
   ]
 }
@@ -142,13 +142,22 @@ The brief has no pillar/cluster field; this is offered as a suggestion based on 
 
 ## 9. Internal link suggestions
 
-- How to choose light bulb color temperature for each room (from "Choose the Right Bulb")
-- How to replace a light fixture safely, and when to call an electrician (from "Swap Out Old Light Fixtures")
-- Best interior paint colors and finishes for modern homes (from the paint section)
-- How to paint kitchen cabinets (from the paint and kitchen sections)
-- Cabinet refacing vs. replacement (from the kitchen section)
-- Luxury vinyl plank vs. laminate vs. hardwood flooring (from the floors section)
-- How to hang curtains to make windows look bigger (from the window treatments section)
-- How to tell if a wall is load-bearing (from the kitchen wall-removal safety note)
-- Beginner smart home lighting upgrades (from the bulb section)
-- Decluttering checklist, room by room (from the declutter section)
+Sibling articles on this site (relative paths):
+
+- [/how-to-mimic-sunlight-indoors/](/how-to-mimic-sunlight-indoors/) (from "Choose the Right Bulb" and the layered-lighting intro)
+- [/how-to-install-hardwood-flooring/](/how-to-install-hardwood-flooring/) (from the floors section)
+- [/kitchen-ideas-for-mobile-home-remodel/](/kitchen-ideas-for-mobile-home-remodel/) (from "How Can You Modernize a Kitchen and Bathroom on a Budget?")
+- [/can-you-remove-walls-in-a-mobile-home/](/can-you-remove-walls-in-a-mobile-home/) (from the kitchen wall-removal safety note)
+- [/pocket-door-for-small-bathroom/](/pocket-door-for-small-bathroom/) (from the bathroom bullets or the interior-doors paint tip)
+- [/mobile-home-renovation-cost/](/mobile-home-renovation-cost/) (from "Which Home Updates Should You Do First?", for readers budgeting a larger renovation)
+
+Topics with no sibling article yet (plain suggestions):
+
+- How to replace a light fixture safely, and when to call an electrician
+- Best interior paint colors and finishes for modern homes
+- How to paint kitchen cabinets
+- Cabinet refacing vs. replacement
+- Luxury vinyl plank vs. laminate vs. hardwood flooring
+- How to hang curtains to make windows look bigger
+- Beginner smart home lighting upgrades
+- Decluttering checklist, room by room

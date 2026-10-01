@@ -15,9 +15,9 @@ These questions are not answered in a dedicated section of the body. Answers use
 1. **Can I remodel a mobile home kitchen myself, or do I need a pro?**
    Cosmetic jobs such as painting cabinets, swapping hardware, and adding peel-and-stick backsplash are common DIY projects. Electrical, gas, structural, and plumbing changes should go to licensed professionals, and you should check local permit rules first.
 2. **Can I put granite or quartz countertops in a mobile home?**
-   Possibly, but stone is much heavier than laminate or butcher block. Ask a contractor whether your cabinets and floor can carry the weight before you buy.
+   Possibly, but granite weighs several times more per square foot than laminate. Ask a contractor whether your cabinets and floor can carry the weight before you buy.
 3. **Can I move the kitchen sink in a mobile home?**
-   It is possible, but in many manufactured homes the plumbing runs through the floor into the underbelly, so moving a sink usually means floor and belly work. Hire a licensed plumber and check permit requirements.
+   It is possible, but many manufactured homes route plumbing through the floor cavity, called the belly, rather than the walls, so moving a sink usually means floor and belly work. Hire a licensed plumber and check permit requirements.
 4. **What screws should I use to hang cabinets in a mobile home?**
    Use wide-head cabinet screws driven into the studs, not brittle drywall screws. Where studs are sparse, a wood cleat screwed across several studs helps spread the weight.
 
@@ -39,7 +39,7 @@ These questions are not answered in a dedicated section of the body. Answers use
       "name": "Can I put granite or quartz countertops in a mobile home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Possibly, but stone is much heavier than laminate or butcher block. Ask a contractor whether your cabinets and floor can carry the weight before you buy."
+        "text": "Possibly, but granite weighs several times more per square foot than laminate. Ask a contractor whether your cabinets and floor can carry the weight before you buy."
       }
     },
     {
@@ -47,7 +47,7 @@ These questions are not answered in a dedicated section of the body. Answers use
       "name": "Can I move the kitchen sink in a mobile home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It is possible, but in many manufactured homes the plumbing runs through the floor into the underbelly, so moving a sink usually means floor and belly work. Hire a licensed plumber and check permit requirements."
+        "text": "It is possible, but many manufactured homes route plumbing through the floor cavity, called the belly, rather than the walls, so moving a sink usually means floor and belly work. Hire a licensed plumber and check permit requirements."
       }
     },
     {
@@ -62,7 +62,7 @@ These questions are not answered in a dedicated section of the body. Answers use
 }
 ```
 
-Note: the sink and countertop-weight answers rest on claims still tagged [VERIFY] in the article. Resolve those tags before you publish this schema.
+Note: the sink and countertop-weight answers now rest on claims sourced in the article (Mainstream plumbing guide and Slabwise countertop weight guide).
 
 ## 5. Article schema
 
@@ -87,16 +87,16 @@ Note: the sink and countertop-weight answers rest on claims still tagged [VERIFY
 Not applicable. The search intent is informational, not how-to.
 
 ## 7. BreadcrumbList schema
-The brief has no pillar/cluster field. This is offered as an optional suggestion, using the category folder. Replace the placeholder domain.
+The brief has no pillar/cluster field. This is offered as an optional suggestion, using the category folder. Replace {{SITE_URL}} with the live domain.
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://example.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "https://example.com/mobile-homes/" },
-    { "@type": "ListItem", "position": 3, "name": "Kitchen Ideas for Mobile Home Remodel", "item": "https://example.com/mobile-homes/kitchen-ideas-for-mobile-home-remodel/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "{{SITE_URL}}/mobile-homes/" },
+    { "@type": "ListItem", "position": 3, "name": "Kitchen Ideas for Mobile Home Remodel", "item": "{{SITE_URL}}/mobile-homes/kitchen-ideas-for-mobile-home-remodel/" }
   ]
 }
 ```
@@ -108,6 +108,13 @@ The brief has no pillar/cluster field. This is offered as an optional suggestion
 4. **In "Brighten with light colors and better lighting."** Under-cabinet LED strip lights shining on a laminate counter. Alt: "Under-cabinet LED lighting brightening a small manufactured home kitchen"
 
 ## 9. Internal link suggestions
+Sibling articles (link with these relative paths):
+- [Mobile home renovation cost](/mobile-home-renovation-cost/) (from the cost section)
+- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/) (from the wall-framing and structural safety notes)
+- [How to modernize your home interior](/how-to-modernize-your-home-interior/) (from the budget-friendly ideas section)
+- [How to mimic sunlight indoors](/how-to-mimic-sunlight-indoors/) (from the lighting section)
+
+Topics with no sibling article yet (plain suggestions):
 - How to paint mobile home cabinets (vinyl-wrapped cabinet prep and primers)
 - Mobile home flooring options and subfloor repair
 - Mobile home bathroom remodel ideas
@@ -115,5 +122,4 @@ The brief has no pillar/cluster field. This is offered as an optional suggestion
 - Mobile home plumbing basics: underbelly, PEX, and belly wrap repair
 - Painting mobile home walls (vinyl-on-gypsum panels)
 - Choosing countertops: laminate vs. butcher block vs. quartz
-- Mobile home remodel costs by room
 - When to hire a licensed electrician for lighting upgrades

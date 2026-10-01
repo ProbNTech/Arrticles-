@@ -130,6 +130,5 @@ Sources cited in the article as links: 2 unique URLs (NAR newsroom, used 4 times
 
 ## Final word count check
 
-- article.md body (H1 through disclosure, with link URLs and table syntax removed): **~1,973 words**
-- Target: 1,800–2,000. **Within range.**
-- Not more than 10% under target, so no gap statement is needed. Note: the homeowner-experience section is a short placeholder. Once a real account is found it should add ~100–150 words, so trim elsewhere (e.g., the hardware or floors sections) to stay under 2,000.
+- QA pass (2026-10-01): article.md body (H1 through disclosure, link URLs, table divider rows and placeholder tags removed): **~2,110 words** (was ~1,973 before QA; five cost tags were replaced with sourced figures).
+- Target: 1,800–2,000. Within the ±10% tolerance (max ~2,200), but above the brief's range. When a real homeowner account fills the [USER EXPERIENCE NEEDED] section, trim about 150–250 words elsewhere (e.g., the hardware or floors sections).

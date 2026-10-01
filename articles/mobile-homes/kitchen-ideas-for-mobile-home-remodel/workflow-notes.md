@@ -74,4 +74,4 @@ Overlap check: weight comes up in both the "different" section and the cabinets 
 **Sources cited (6 unique URLs, 5 domains):** teamupcabinets.ca, hud.gov, homeguide.com (2 pages), diychatroom.com, blog.mhvillage.com.
 
 ## Final word count check
-The article.md body is ~1,493 words, counting the H1, headings, tags, and the disclosure line (front matter and link URLs excluded). The target was 1,400–1,500, so it is within range and no gap statement is needed.
+After the QA pass, the article.md body is ~1,540 words (front matter and link URLs excluded; H1, headings, tags and disclosure line counted). The target was 1,400–1,500; this is about 3% over the top of the range, inside the ±10% tolerance. No gap statement is needed.
