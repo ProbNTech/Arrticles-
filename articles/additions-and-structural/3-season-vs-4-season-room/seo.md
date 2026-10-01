@@ -15,7 +15,7 @@ These questions are not answered in a dedicated body section.
 1. **Do I need a permit for a three-season room?** Permit rules for sunrooms, including unheated ones, vary by state and municipality, so check with your local building department before you build.
 2. **Can I put a TV or electronics in a three-season room?** Many three-season rooms have little or no electrical service, so you may need new circuits added by a licensed electrician before using electronics there.
 3. **Is a screened porch the same as a three-season room?** No. A screened porch has open, screened walls, while a three-season room adds glass or vinyl panels that block wind and rain.
-4. **Can I build a sunroom on my existing deck or patio?** Sometimes, but a licensed contractor should first confirm the deck or slab can carry the extra load, especially for a heavier four-season room.
+4. **Can I build a sunroom on my existing deck or patio?** Sometimes, but a licensed contractor should first confirm that the deck or slab can carry the sunroom's added load.
 
 ```json
 {
@@ -51,7 +51,7 @@ These questions are not answered in a dedicated body section.
       "name": "Can I build a sunroom on my existing deck or patio?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sometimes, but a licensed contractor should first confirm the deck or slab can carry the extra load, especially for a heavier four-season room."
+        "text": "Sometimes, but a licensed contractor should first confirm that the deck or slab can carry the sunroom's added load."
       }
     }
   ]
@@ -110,3 +110,7 @@ Not applicable. Search intent is Informational / Commercial Investigation, not h
 - How to choose a home addition contractor
 - Converting a deck into a covered patio
 - Home improvements that add the most resale value
+- ADU vs. DADU, for homeowners comparing other ways to add living space: `/adu-vs-dadu/`
+- Aluminum French doors, for the door between the house and the sunroom: `/aluminium-french-door/`
+- How to mimic sunlight indoors, for readers who want a brighter space without building: `/how-to-mimic-sunlight-indoors/`
+- Mobile home renovation cost, for readers adding a sunroom to a manufactured home: `/mobile-home-renovation-cost/`

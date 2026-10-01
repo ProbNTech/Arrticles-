@@ -72,4 +72,4 @@ Overlap flags: glass and insulation appear in the table, the 4-season section, a
 - Unresolved because the search budget ran out: the Houzz thread confirmation and an attributable ROI stat.
 
 ## Final word count check
-The article.md body is about 1,490 words (H1 through the disclosure line, link URLs excluded, table included). The target is 1,400–1,500, so it is within range and no gap statement is needed.
+After the QA pass, the article.md body is 1,577 words (wc -w, H1 through the disclosure line). The target is 1,400–1,500, so the allowed ±10% band is 1,260–1,650. It is within range, and no gap statement is needed.

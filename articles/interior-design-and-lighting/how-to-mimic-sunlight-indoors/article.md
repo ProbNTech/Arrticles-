@@ -23,7 +23,7 @@ Sunlight has three qualities that typical bulbs miss: its color, how true it mak
 
 **Color rendering (CRI).** The color rendering index scores how accurately a light source shows colors, on a scale that tops out at 100. Sunlight is the reference point, so a high CRI is a big part of what makes artificial light feel "real."
 
-**Brightness (lumens and lux).** Lumens measure how much light a bulb gives off. Watts only tell you how much power it uses. Lux measures how much of that light actually lands on a surface, like your desk or your face. Daylight is far brighter than ordinary room lighting [STAT NEEDED], which is why a dark space can still feel dim even with a "daylight" bulb in the ceiling.
+**Brightness (lumens and lux).** Lumens measure how much light a bulb gives off. Watts only tell you how much power it uses. Lux measures how much of that light actually lands on a surface, like your desk or your face. Daylight is far brighter than ordinary room lighting. One study of everyday light levels found the [median outdoor reading was about 8 times higher than the median indoor reading (1,175 lux vs. 179 lux)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8263252/). That's why a dark space can still feel dim even with a "daylight" bulb in the ceiling.
 
 ## Which light bulbs come closest to natural daylight?
 
@@ -31,13 +31,13 @@ For most rooms, LEDs are the practical choice, since they come in daylight color
 
 Here's what to look for on the box:
 
-- **Color temperature:** Around 5000K for a crisp, daytime look. Bulbs labeled "daylight" usually fall in the 5000K–6500K range. Higher numbers look bluer, so test one bulb before you buy a full set.
+- **Color temperature:** Around 5000K for a crisp, daytime look. Bulbs labeled "daylight" usually fall in the 5000K–6500K range [PARTIAL SOURCE: https://www.energystar.gov/ia/products/downloads/CFL_PRG.pdf — verify before publishing]. Higher numbers look bluer, so test one bulb before you buy a full set.
 - **CRI:** 90 or higher.
 - **Lumen output:** Match it to the job. Low-lumen bulbs (under 600) work best for mood lighting, while higher-lumen bulbs suit tasks like cooking or reading [PARTIAL SOURCE: https://www.occ.ohio.gov/factsheet/how-shop-lightbulbs — verify before publishing].
 
 **Full-spectrum vs. "daylight" bulbs.** These terms are not the same. "Daylight" usually refers only to color temperature. "Full-spectrum" is a marketing term for bulbs meant to cover more of the visible light range, often with a very high CRI [PARTIAL SOURCE: https://www.ledvance.com/en-us/professional-lighting/insights/blog/lighting-basics/full-spectrum-vs-daylight-bulbs — verify before publishing]. Check the CRI rating rather than trusting the label.
 
-Some brands sell bulbs designed to simulate sunlight. GE, for example, markets a Sun Filled LED line that it says reaches a CRI of 97 [VERIFY]. Compare spec sheets, not just packaging, before you buy.
+Some brands sell bulbs designed to simulate sunlight. GE, for example, markets a Sun Filled LED line that it says reaches a CRI of 97 [PARTIAL SOURCE: https://www.gelighting.com/sun-filled-led — verify before publishing]. Compare spec sheets, not just packaging, before you buy.
 
 Where you put those bulbs matters just as much.
 
@@ -63,7 +63,7 @@ With your light sources in place, your walls and decor can help stretch that lig
 
 Yes, and cheaply. Every surface either reflects light or soaks it up.
 
-**Paint.** Dark tones absorb light, while pale colors bounce it back into the room. A fresh coat of soft white, cream, or pale pastel on the walls and ceiling can make a dark room feel brighter with the same bulbs. A white or eggshell finish reflects a bit more than flat paint without showing every flaw. Many paint brands list a light reflectance value (LRV) for each color; a higher LRV means more reflected light [VERIFY].
+**Paint.** Dark tones absorb light, while pale colors bounce it back into the room. A fresh coat of soft white, cream, or pale pastel on the walls and ceiling can make a dark room feel brighter with the same bulbs. A white or eggshell finish reflects a bit more than flat paint without showing every flaw. Many paint brands list a light reflectance value (LRV) for each color; it runs from 0 (absorbs all light) to 100 (reflects all light), so a higher LRV means more reflected light [PARTIAL SOURCE: https://en.wikipedia.org/wiki/Light_reflectance_value — verify before publishing].
 
 **Mirrors.** Place a mirror across from your brightest light source, whether that's a window, a floor lamp, or an LED panel. It throws light deeper into the room and can create the feeling of a second window.
 
@@ -93,7 +93,7 @@ If artificial light isn't enough, you can bring real daylight into some rooms.
 
 A tubular skylight, often called a solar tube, collects sunlight on the roof and channels it down a reflective tube to a diffuser in your ceiling. It can light a hallway, closet, or bathroom that has no windows.
 
-One cost guide estimates solar tubes at about $600 to $1,100 installed, with an average around $850 [PARTIAL SOURCE: https://homeguide.com/costs/solar-tube-cost — verify before publishing]. Prices depend on tube size, roof type, and how far the tube has to travel.
+Angi's cost guide puts [solar tube installation at about $600 to $1,100 per tube, with a national average around $850](https://www.angi.com/articles/how-much-solar-tubes-cost.htm). Prices depend on tube size, roof type, and how far the tube has to travel.
 
 **Safety note:** Solar tubes and skylights mean cutting into your roof and working at height. Hire a licensed roofing contractor or installer, and check with your local building department about permit requirements before any work begins [VERIFY].
 
@@ -101,7 +101,7 @@ Renters and condo owners usually can't make roof changes, which is why the light
 
 ## What happens when researchers recreate daylight in a whole room?
 
-Researchers have tested a much bigger idea than one bulb. A proof-of-concept randomized trial called BROAD tested [bright, whole-room, all-day light therapy using about 100,000 lumens](https://www.medrxiv.org/content/10.1101/2021.10.29.21265530.full.pdf) to treat seasonal affective disorder. That light was spread across an entire room rather than aimed from one box. The study is a preprint, so its findings haven't completed peer review [VERIFY].
+Researchers have tested a much bigger idea than one bulb. A proof-of-concept randomized trial called BROAD, published in 2022 in the journal *Depression and Anxiety*, tested [bright, whole-room, all-day light therapy using about 100,000 lumens](https://onlinelibrary.wiley.com/doi/10.1002/da.23281) to treat seasonal affective disorder. That light was spread across an entire room rather than aimed from one box. Symptoms improved by a similar amount in both groups: people in the brightly lit rooms and people using a standard 10,000 lux light box.
 
 The lesson for your home: daylight-like light fills the space from many sources instead of glowing from one corner.
 

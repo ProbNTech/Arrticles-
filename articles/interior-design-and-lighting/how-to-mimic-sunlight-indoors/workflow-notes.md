@@ -75,5 +75,5 @@ PAA-style questions could not be pulled directly because results were summary-on
 Sources cited as resolved links: 3 unique URLs (PMC review, Mayo Clinic, medRxiv). Partial sources: 5.
 
 ## Final word count check
-- Article body (H1 through the disclosure line, excluding front matter, URLs and PARTIAL SOURCE tag text): **about 1,604 words**. The raw whitespace count including URL tokens is 1,652.
-- Target: 1,500–1,600. Within the target (about 4 words over the upper bound). No gap statement is needed.
+- Updated after the QA pass (see qa-report.md). Article body (H1 through the disclosure line, excluding front matter, URLs and PARTIAL SOURCE tag text): **about 1,681 words**. The raw whitespace count including URL tokens is 1,716.
+- Target: 1,500–1,600 (assumed). About 5% over the 1,600 upper bound, within the ±10% tolerance (QA pass added sourced facts for the lux stat, LRV scale and the BROAD trial's published results).

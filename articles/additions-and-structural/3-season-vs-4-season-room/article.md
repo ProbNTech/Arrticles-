@@ -9,9 +9,9 @@ brief: ../../../briefs/additions-and-structural/3-season-vs-4-season-room.md
 
 # 3-Season vs. 4-Season Room: What's the Real Difference?
 
-You've pictured it: coffee in a bright, glass-walled room, rain tapping on the roof, no mosquitoes. Then the quotes arrive. One company pitches a "three-season room," another a "four-season room," and the prices are far apart.
+You've pictured it: coffee in a bright, glass-walled room, rain tapping on the roof, no mosquitoes. Then the quotes arrive. One company pitches a "three-season room," another a "four-season room," and the prices are far apart. So what is the difference between a 3 season and 4 season room?
 
-Knowing the difference between a 3 season and 4 season room saves you from paying for features you won't use, or from building a room that sits empty every January. The gap covers glass, insulation, heating and cooling, codes, and resale. Later, our editorial team also shares what real homeowners have said after living with these rooms through a few winters.
+Knowing the answer saves you from paying for features you won't use, or from building a room that sits empty every January. The gap covers glass, insulation, heating and cooling, codes, and resale. Later, our editorial team also shares what real homeowners have said after living with these rooms through a few winters.
 
 Start with the side-by-side view.
 
@@ -24,7 +24,7 @@ Start with the side-by-side view.
 | Insulation | Little or none | Insulated walls, roof, and floor |
 | Heating and cooling | Usually none | Tied into the home's HVAC or its own system |
 | Framing | Standard aluminum, vinyl, or wood | Thermally engineered frame built to stop heat loss |
-| Typical cost | $8,000 to $50,000 | $20,000 to $80,000 |
+| Typical cost | $8,000 to $50,000 ($80 to $230 per sq ft) | $20,000 to $80,000 ($200 to $400 per sq ft) |
 | Counts as living area? | Usually not | Often, when heated and cooled like the house |
 
 Cost ranges are national estimates from [HomeGuide's sunroom cost guide](https://homeguide.com/costs/sunroom-cost).
@@ -49,7 +49,7 @@ A four-season room is built to feel like any other room in your house, every sea
 
 **Heating and cooling.** HomeGuide notes that a four-season room is temperature-controlled and connects to the rest of the house ([HomeGuide](https://homeguide.com/costs/sunroom-cost)). That might mean extending your current HVAC system or adding a separate unit, such as a ductless mini-split.
 
-Because a four-season room needs a stronger foundation, more electrical work, and HVAC changes, it's a bigger construction job. Hire a licensed contractor, plus a licensed electrician and HVAC pro, and check local building codes and permit rules before you start [VERIFY].
+Because a four-season room often needs a stronger foundation, more electrical work, and HVAC changes, it's a bigger construction job [VERIFY]. Hire a licensed contractor, plus a licensed electrician and HVAC pro, and check local building codes and permit rules before you start.
 
 ## How do building codes treat each type?
 
@@ -59,7 +59,7 @@ Building codes don't use the words "three-season" or "four-season." Instead, the
 - **Category IV:** Glassed rooms with their own separate heating or cooling, kept thermally isolated from the house.
 - **Category V:** A heated and cooled room open to the main house. It's treated like any other addition.
 
-Energy codes add more rules for conditioned sunrooms. For "thermally isolated" sunrooms, the model energy code lists minimum ceiling insulation of R-19 in climate zones 1 to 4 and R-24 in zones 5 to 8, R-13 walls, and a maximum window U-factor of 0.50 in zones 4 to 8 ([UpCodes, thermally isolated sunroom insulation](https://up.codes/s/thermally-isolated-sunroom-insulation-prescriptive)) [VERIFY].
+Energy codes add more rules for conditioned sunrooms. For "thermally isolated" sunrooms, the model energy code lists minimum ceiling insulation of R-19 in climate zones 1 to 4 and R-24 in zones 5 to 8, R-13 walls, and a maximum window U-factor of about 0.45 in colder zones ([UpCodes, thermally isolated sunroom insulation](https://up.codes/s/thermally-isolated-sunroom-insulation-prescriptive)). The exact window value and the zones it applies to differ between code editions [VERIFY].
 
 Code editions and local amendments vary by state and town, so confirm which rules apply with your building department or a licensed contractor before you sign.
 
@@ -74,15 +74,15 @@ A few factors move the price for either type:
 - Room size and roof style
 - Whether you build on an existing patio or deck, or need a new foundation
 - Frame material (aluminum, vinyl, or wood)
-- Permits and local labor rates [COST NEEDED]
+- Permits and local labor rates (permit fee estimates range from a few hundred dollars to about $1,500, depending on location and scope) [PARTIAL SOURCE: https://www.angi.com/articles/how-much-does-sunroom-cost.htm — verify before publishing]
 
 Get at least three written quotes that each name the sunroom category, glass type, and whether HVAC work is included.
 
 ## Does a four-season room add more home value?
 
-It often does, because of how appraisers measure homes. Many follow the ANSI Z765 standard, which counts only finished, heated, above-grade space as gross living area ([MeasureFloorPlan's guide to ANSI Z765-2021](https://measurefloorplan.com/learn/ansi-z765-square-footage-standard)). An unheated three-season room usually doesn't qualify.
+It often does, because of how appraisers measure homes. Many follow the ANSI Z765 standard, which counts only finished, above-grade space suitable for year-round use as gross living area ([MeasureFloorPlan's guide to ANSI Z765-2021](https://measurefloorplan.com/learn/ansi-z765-square-footage-standard)). An unheated three-season room usually doesn't qualify.
 
-A four-season room heated and cooled like the rest of the house may count toward your square footage. That can help your appraisal and listing. Some guides note that a room heated only by a mini-split or space heater may still not count [VERIFY].
+A four-season room heated and cooled like the rest of the house may count toward your square footage. That can help your appraisal and listing. A room warmed only by a space heater or window AC unit generally doesn't count; it needs permanent heating and cooling comparable to the rest of the house ([PlanSnapper on sunroom square footage](https://plansnapper.com/learn/sunroom-square-footage-appraisal)).
 
 A three-season room can still add value as a separate feature; it just won't add square footage. How much either room returns depends on your local market [STAT NEEDED].
 
