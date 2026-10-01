@@ -48,13 +48,13 @@ Attached units usually cost less, and for a simple reason. A garage conversion r
 
 The UC Berkeley report found a [median cost of $180,000 for detached ADUs ($300 per sq ft), $150,000 for additions, $100,000 for conversions of space inside the main house, and $90,000 for garage conversions](https://www.aducalifornia.org/wp-content/uploads/2021/04/Implementing-the-Backyard-Revolution.pdf). Those numbers come from California owners surveyed before the report's 2021 publication, so treat them as a floor, not a quote.
 
-Newer numbers from a busy market run much higher. Ballard Backyard Cottages, a Seattle design-build firm, puts [2025–2026 DADU costs at $400 to $650 per sq ft all-in](https://ballardbackyardcottages.com/cost-to-build-a-dadu-in-seattle-2025-2026-update/). That works out to roughly $325,000 to $400,000 for a 450 to 600 sq ft cottage and $375,000 to $550,000 for a 1,000 sq ft one.
+Newer numbers from a busy market run much higher. Ballard Backyard Cottages, a Seattle design-build firm, puts [2025–2026 DADU costs at $400 to $650 per sq ft all-in](https://ballardbackyardcottages.com/cost-to-build-a-dadu-in-seattle-2025-2026-update/). The firm's typical project totals are [$325,000 to $400,000 for a 450 to 600 sq ft cottage and $375,000 to $550,000 for a 1,000 sq ft one](https://ballardbackyardcottages.com/cost-to-build-a-dadu-in-seattle-2025-2026-update/).
 
-That's a big gap between sources, and it's mostly about place and time. Labor, land, and permit fees vary a lot by city. A current attached-ADU cost range for most U.S. markets is still [COST NEEDED].
+That's a big gap between sources, and it's mostly about place and time. Labor, land, and permit fees vary a lot by city. For a national view of attached units, Angi's 2026 data puts a [garage-to-ADU conversion at $60,000 to $150,000](https://www.angi.com/articles/cost-to-convert-garage-to-adu.htm). A current national range for basement units and additions is still [COST NEEDED].
 
 One surprise worth knowing: smaller isn't always cheaper per foot. The same Seattle firm notes that a [450 sq ft DADU often costs more per square foot than a 1,000 sq ft build](https://ballardbackyardcottages.com/cost-to-build-a-dadu-in-seattle-2025-2026-update/). That's because the kitchen, bathroom, and utility hookups cost about the same either way.
 
-Many homeowners pay for these projects with a home equity loan, a cash-out refinance, or savings. Talk with a lender early, since how much of the unit's future rent a lender will count varies. [FACT NEEDED]
+Many homeowners pay for these projects with a home equity loan, a cash-out refinance, or savings. Talk with a lender early, because lenders don't all treat ADU rent the same way. Fannie Mae, for example, began letting lenders count rent from one ADU in 2026, [capped at 30% of the borrower's qualifying income, for purchases and limited cash-out refinances of a one-unit primary home](https://corr.pennymac.com/announcements/announcement-26-29).
 
 ## Which one gives you more privacy and rental income?
 
@@ -64,17 +64,17 @@ Many builders say that independence lets DADUs command higher rent than attached
 
 An attached ADU wins when closeness matters more than separation. If you're caring for aging parents, being one door away instead of across the yard can make daily check-ins easier. It also keeps the yard open for kids, pets, or a garden.
 
-As for property value, both types add a separate living space buyers may pay for. How much depends on your local real estate market and whether the unit is fully permitted. [STAT NEEDED]
+As for property value, both types add a separate living space buyers may pay for. Angi, citing a National Association of Realtors study, says [ADUs add an average of 35% to a home's value](https://www.angi.com/articles/how-much-value-does-an-adu-add.htm), though results vary widely by location. [VERIFY] Your local real estate market and whether the unit is fully permitted will shape your number.
 
 ## Zoning laws: what decides whether you can build a DADU?
 
 Your local zoning laws, not your preference, often make the final call. Lot size, setbacks, height limits, and size caps can rule out a backyard cottage on one lot and allow it next door. Rules change often, so treat the examples below as snapshots and confirm with your local planning department.
 
-**Washington State.** A 2023 state law (HB 1337) requires cities and counties in urban growth areas to [allow two ADUs on lots that permit a single-family home, and it removed owner-occupancy requirements](https://duvallwa.gov/DocumentCenter/View/13215/ADU-Commerce-Guidance-Final). The details depend on how each city adopted it. [VERIFY]
+**Washington State.** A 2023 state law (HB 1337) requires cities and counties in urban growth areas to [allow two ADUs on lots that permit a single-family home, and it removed owner-occupancy requirements](https://duvallwa.gov/DocumentCenter/View/13215/ADU-Commerce-Guidance-Final). The details depend on how and when each city adopted it.
 
-**Seattle.** The city caps both AADUs and DADUs at [1,000 sq ft in neighborhood residential zones and 650 sq ft in lowrise zones, and doesn't require parking for an ADU](https://www.glb.seattle.gov/sdci/permits/common-projects/accessory-dwelling-units) [VERIFY]. Detached units are popular there. In 2022 the city [permitted 551 DADUs and 437 attached ADUs](https://www.seattle.gov/documents/Departments/OPCD/OngoingInitiatives/EncouragingBackyardCottages/OPCD-ADUAnnualReport2022.pdf).
+**Seattle.** The city caps both AADUs and DADUs at [1,000 sq ft in neighborhood residential zones and 650 sq ft in lowrise (small apartment) zones, and doesn't require parking for an ADU](https://www.seattle.gov/sdci/permits/common-projects/accessory-dwelling-units). Detached units are popular there. In 2022 the city [permitted 551 DADUs and 437 attached ADUs](https://www.seattle.gov/documents/Departments/OPCD/OngoingInitiatives/EncouragingBackyardCottages/OPCD-ADUAnnualReport2022.pdf).
 
-**Portland, Oregon.** Cities like Portland limit an ADU to [800 sq ft or 75% of the main house's living area, whichever is less, and allow combinations such as a house plus two detached ADUs](https://www.portland.gov/ppd/residential-permitting/home-projects/accessory-dwelling-units) [VERIFY]. Portland has also waived system development charges for ADUs if the owner signs a covenant [not to use the unit as a short-term rental for 10 years](https://www.portlandoregon.gov/bds/article/569789) [VERIFY].
+**Portland, Oregon.** Portland limits an ADU to [800 sq ft or 75% of the main house's living area, whichever is less, and allow combinations such as a house plus two detached ADUs](https://www.portland.gov/ppd/residential-permitting/home-projects/accessory-dwelling-units) [VERIFY]. Portland also waives system development charges (one-time fees that help pay for new roads, sewers, and parks) for eligible ADUs. In exchange, the owner signs a covenant that [neither the ADU nor the house will be used as a short-term rental for 10 years](https://www.portland.gov/ppd/residential-permitting/adu-sdc-waiver).
 
 Both types need building permits in most places, and both involve structural, electrical, and plumbing work. [VERIFY] Cutting a new entry into a basement, adding a second story over a garage, or pouring a new foundation are not DIY jobs. Hire a licensed architect or contractor, and check your local building codes before any work begins.
 
@@ -96,7 +96,7 @@ Run through these questions before you call a designer:
 - **Will you want the yard back?** A DADU uses outdoor space for good.
 - **What does your city allow?** Size caps, setbacks, and utility rules can decide for you.
 
-A good next step is a site visit from an ADU designer or general contractor. They can tell you whether your foundation, soil, sewer line, and electrical service can support either option. [VERIFY]
+A good next step is a site visit from a licensed ADU designer or general contractor. They can tell you whether your foundation, soil, sewer line, and electrical service can support either option. [VERIFY]
 
 ## Making the call
 

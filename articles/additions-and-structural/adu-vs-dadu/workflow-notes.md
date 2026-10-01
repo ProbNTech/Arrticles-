@@ -71,5 +71,5 @@ NeuronWriter list provided; merged with search-derived entities.
 - [USER EXPERIENCE] → resolved with real, linkable reporting: https://www.seattletimes.com/business/real-estate/backyard-cottages-sprouting-in-seattle/ and https://www.seattletimes.com/pacific-nw-magazine/this-is-not-your-grandmothers-backyard-cottage/ . Details come from search snippets. Confirm them on the page.
 
 ## Final word count check
-- Article body (excluding front matter, link URLs and table pipes): about 1,578 words. Target: 1,500–1,600. That's within range, so no gap statement is needed.
-- Unresolved tags remaining: [COST NEEDED] ×1, [FACT NEEDED] ×1, [STAT NEEDED] ×3, [VERIFY] ×7.
+- Article body after QA pass (excluding front matter, link URLs and table pipes): 1,681 words (`wc -w`). Target: 1,500–1,600; within the ±10% QA tolerance (QA pass added sourced facts that replaced tags).
+- Unresolved tags remaining after QA: [COST NEEDED] ×1, [STAT NEEDED] ×2, [VERIFY] ×5. See qa-report.md.

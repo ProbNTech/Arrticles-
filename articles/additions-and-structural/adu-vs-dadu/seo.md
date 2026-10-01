@@ -13,8 +13,8 @@ adu-vs-dadu-differences-costs
 Three edge-case/follow-up questions not answered as dedicated sections in the body (a fourth candidate on building both types on one lot was dropped as redundant with the zoning section). Answers use only information established in the article.
 
 1. **Do I have to live on the property to rent out an ADU or DADU?** It depends on where you live. Washington's HB 1337 removed owner-occupancy requirements for ADUs, but other states and cities may still have them, so check with your local planning department.
-2. **Can I use a DADU as an Airbnb or short-term rental?** Local rules decide this. In Portland, for example, owners who take the city's system development charge waiver sign a covenant not to use the ADU as a short-term rental for 10 years.
-3. **Is converting a garage into an ADU a DIY project?** Not the core work. Garage conversions involve structural, electrical and plumbing changes that need permits in most places, so hire a licensed contractor and check local building codes before starting.
+2. **Can I use a DADU as an Airbnb or short-term rental?** Local rules decide this. In Portland, for example, owners who take the city's system development charge waiver sign a covenant that neither the ADU nor the house will be used as a short-term rental for 10 years.
+3. **Is converting a garage into an ADU a DIY project?** Not the core work. Garage conversions involve structural, electrical and plumbing changes, so hire a licensed contractor and check your local permit rules and building codes before starting.
 
 ```json
 {
@@ -34,7 +34,7 @@ Three edge-case/follow-up questions not answered as dedicated sections in the bo
       "name": "Can I use a DADU as an Airbnb or short-term rental?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Local rules decide this. In Portland, for example, owners who take the city's system development charge waiver sign a covenant not to use the ADU as a short-term rental for 10 years."
+        "text": "Local rules decide this. In Portland, for example, owners who take the city's system development charge waiver sign a covenant that neither the ADU nor the house will be used as a short-term rental for 10 years."
       }
     },
     {
@@ -42,7 +42,7 @@ Three edge-case/follow-up questions not answered as dedicated sections in the bo
       "name": "Is converting a garage into an ADU a DIY project?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Not the core work. Garage conversions involve structural, electrical and plumbing changes that need permits in most places, so hire a licensed contractor and check local building codes before starting."
+        "text": "Not the core work. Garage conversions involve structural, electrical and plumbing changes, so hire a licensed contractor and check your local permit rules and building codes before starting."
       }
     }
   ]
@@ -72,16 +72,16 @@ Three edge-case/follow-up questions not answered as dedicated sections in the bo
 Not applicable. Search intent is informational/comparison, not how-to.
 
 ## 7. BreadcrumbList schema
-Home > Additions and Structural > ADU vs DADU (URLs are placeholders for the site's real paths).
+Home > Additions and Structural > ADU vs DADU (`{{SITE_URL}}` is a placeholder for the site's domain).
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "/" },
-    { "@type": "ListItem", "position": 2, "name": "Additions and Structural", "item": "/additions-and-structural/" },
-    { "@type": "ListItem", "position": 3, "name": "ADU vs DADU", "item": "/additions-and-structural/adu-vs-dadu-differences-costs/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Additions and Structural", "item": "{{SITE_URL}}/additions-and-structural/" },
+    { "@type": "ListItem", "position": 3, "name": "ADU vs DADU", "item": "{{SITE_URL}}/additions-and-structural/adu-vs-dadu-differences-costs/" }
   ]
 }
 ```
@@ -96,8 +96,10 @@ Home > Additions and Structural > ADU vs DADU (URLs are placeholders for the sit
 - Garage conversion costs and permitting guide
 - Basement finishing / basement apartment guide (egress windows, ceiling height)
 - Home additions vs. building up (second-story additions)
+- Sunroom-style additions: /3-season-vs-4-season-room/
 - How to read your property's zoning and find setbacks
 - Home equity loan vs. HELOC vs. cash-out refinance for renovations
-- Aging-in-place and accessible home design (step-free entries, wider doorways)
+- Aging-in-place and accessible home design (step-free entries, wider doorways): /width-of-doorways-for-wheelchair-access/ and /handicap-bathroom-remodel-cost/
+- Space-saving doors for a small ADU bathroom: /pocket-door-for-small-bathroom/
 - How to hire and vet a general contractor or architect
 - Tiny homes vs. ADUs
