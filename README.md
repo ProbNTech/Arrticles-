@@ -78,3 +78,37 @@ These were copied exactly as they appear in the Google Docs. Fix them in the doc
 
 - **How to mimic sunlight indoors**: the word count is still the placeholder `[WORDS]`.
 - **Pocket door for small bathroom**: the word count reads `12000-1300`, which is probably a typo for `1200-1300`.
+
+## Articles (drafts)
+
+Each brief has a written article in `articles/<category>/<slug>/`:
+
+- `article.md`: the publish-ready article, with SEO title, slug and meta description in front matter
+- `seo.md`: SEO title, meta, slug, FAQ / Article / HowTo / Breadcrumb JSON-LD, image placements, internal links
+- `workflow-notes.md`: competitor gap, entity list, outline, full audit, research log and word-count check
+
+**Status: drafts, not yet ready to publish.** During research, full web pages could not be opened (the network proxy blocked them), and the session's 200-search limit ran out. So:
+
+- Every cited figure comes from search-result summaries. An editor should click each link and confirm the figure before publishing.
+- Claims that could not be sourced keep the brief's placeholder tags (`[VERIFY]`, `[COST NEEDED]`, `[USER EXPERIENCE NEEDED]`, `[PARTIAL SOURCE: …]`, …). Each article's `workflow-notes.md` research log lists them, with candidate sources where any were found.
+
+| Article | Target words | Sources linked | Open tags |
+|---|---|---|---|
+| [Handicap bathroom remodel cost](articles/accessibility/handicap-bathroom-remodel-cost/article.md) | 2000–2100 | 9 | 30 |
+| [Width of doorways for wheelchair access](articles/accessibility/width-of-doorways-for-wheelchair-access/article.md) | 1400–1500 | 9 | 7 |
+| [3 season vs 4 season room](articles/additions-and-structural/3-season-vs-4-season-room/article.md) | 1400–1500 | 7 | 8 |
+| [Adu vs dadu](articles/additions-and-structural/adu-vs-dadu/article.md) | 1500–1600 | 11 | 12 |
+| [House lifting methods](articles/additions-and-structural/house-lifting-methods/article.md) | 1600–1700 | 8 | 11 |
+| [Aluminium french door](articles/doors-and-windows/aluminium-french-door/article.md) | 1400–1500 | 5 | 14 |
+| [How to measure window well covers](articles/doors-and-windows/how-to-measure-window-well-covers/article.md) | 1500–1600 | 3 | 10 |
+| [Ideas for window well covers](articles/doors-and-windows/ideas-for-window-well-covers/article.md) | 1500–1600 | 9 | 17 |
+| [Pocket door for small bathroom](articles/doors-and-windows/pocket-door-for-small-bathroom/article.md) | 1200–1300 | 3 | 14 |
+| [How to install hardwood flooring](articles/flooring-and-stairs/how-to-install-hardwood-flooring/article.md) | 1500–1600 | 4 | 13 |
+| [Parts of a staircase](articles/flooring-and-stairs/parts-of-a-staircase/article.md) | 1500–1600 | 8 | 9 |
+| [How to mimic sunlight indoors](articles/interior-design-and-lighting/how-to-mimic-sunlight-indoors/article.md) | 1500–1600 (assumed) | 3 | 12 |
+| [How to modernize your home interior](articles/interior-design-and-lighting/how-to-modernize-your-home-interior/article.md) | 1800–2000 | 2 | 12 |
+| [Walk in closet dimensions](articles/interior-design-and-lighting/walk-in-closet-dimensions/article.md) | 1500–1600 | 4 | 9 |
+| [Can you remove walls in a mobile home](articles/mobile-homes/can-you-remove-walls-in-a-mobile-home/article.md) | 1200–1300 | 2 | 20 |
+| [Kitchen ideas for mobile home remodel](articles/mobile-homes/kitchen-ideas-for-mobile-home-remodel/article.md) | 1400–1500 | 6 | 11 |
+| [Mobile home renovation cost](articles/mobile-homes/mobile-home-renovation-cost/article.md) | 1700–1800 | 5 | 19 |
+| [Mobile home roof replacement cost](articles/mobile-homes/mobile-home-roof-replacement-cost/article.md) | 1600–1700 | 7 | 19 |
