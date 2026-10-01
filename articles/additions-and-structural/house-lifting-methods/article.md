@@ -17,13 +17,13 @@ It can. The house lifting methods pros use depend on how your home is built, wha
 
 ## Why Do Homeowners Lift a House?
 
-Flooding is the big one. Raising a home puts the living space above the water line. According to [the Wikipedia overview of house raising](https://en.wikipedia.org/wiki/House_raising), the practice is often used in areas prone to flooding and storm damage.
+Flooding is the big one. FEMA's *Homeowner's Guide to Retrofitting* calls elevation one of the most common flood retrofits. When a house is properly elevated, [the living area sits above all but the most severe floods](https://www.fema.gov/sites/default/files/documents/fema_elevating-your-house-chapter-5.pdf).
 
-The same overview notes that house raising can also be part of a renovation, to build a foundation under an existing house or add a new floor level. In practice, that means:
+House raising can also be part of a bigger renovation. In practice, that means:
 
 - **Foundation repair.** If the existing foundation is failing, lifting gives a crew room to build a new foundation.
-- **Additional living space.** Raising a home can create height for a new basement.
-- **Insurance and resale.** Elevating a home can significantly reduce flood insurance premiums, depending on the elevation and flood zone, as noted in [a 2025 report on Florida home elevations](https://finance.yahoo.com/news/florida-man-paid-lift-home-110000016.html).
+- **Additional living space.** Raising a home can create height for a [new basement under the existing house](https://homeguide.com/costs/house-lifting-cost).
+- **Lower flood insurance.** Elevating a home can significantly reduce flood insurance premiums, depending on the elevation and flood zone, as noted in [a 2025 report on Florida home elevations](https://finance.yahoo.com/news/florida-man-paid-lift-home-110000016.html).
 
 Your reason shapes which lifting method makes sense and how high the house needs to go.
 
@@ -50,9 +50,9 @@ Lifters don't go all the way up at once. [Model Remodel's House Lifting 101](htt
 
 This is the workhorse method for wood-frame homes on crawlspaces or basements. Steel beams go in under the floor joists, often in two layers set at right angles, with multiple hydraulic jacks below them.
 
-The key piece is a unified hydraulic jacking system. As [the Wikipedia house raising article](https://en.wikipedia.org/wiki/House_raising) describes, jacks are placed evenly under the home and hooked to a unified hydraulic jacking machine that raises each jack an exact amount at the same time. That synchronized lifting keeps the entire house level, reducing the risk of structural damage.
+The key piece is a unified hydraulic jacking system. As [The Devillier Group's explainer on unified hydraulic jacking](https://thedevilliergroup.com/what-is-a-unified-hydraulic-jacking-system-and-why-do-we-use-them/) describes, all the jacks connect to a central pump and valve manifold. Each jack gets the same volume of fluid, so every lift point rises at the same rate, even when one point carries more weight. That synchronized lifting keeps the entire house level and reduces the risk of twisting or cracking.
 
-Each jack can only extend so far, so crews keep stacking cribbing as the house rises. [Model Remodel](https://modelremodel.com/blog/house-lifting/) describes cribbing as Lincoln-Log-like wood beams that are cross-stacked to form a supportive base for the whole house.
+Each jack can only extend so far, so crews keep stacking cribbing as the house rises. [Model Remodel](https://modelremodel.com/blog/house-lifting/) describes cribbing as Lincoln-Log-like wood beams that are cross-stacked to form a supportive base for the whole house. Setting jacks and cribbing is a job for a licensed house-lifting crew, never a homeowner.
 
 ### Lifting a Slab-on-Grade Home: With or Without the Slab
 
@@ -69,13 +69,13 @@ When the slab does go up with the house, [a University of New Orleans guide to e
 
 **Extended foundation walls.** FEMA describes supporting the raised house on cribbing while the [foundation walls are extended to the desired height with concrete block or poured concrete](https://www.fema.gov/sites/default/files/documents/fema_elevating-your-house-chapter-5.pdf). The house is then lowered and the I-beams removed. In flood areas, the walls also need flood openings so water can flow through and balance the pressure inside and out. FEMA's guide calls for these openings no higher than 1 foot above the ground [VERIFY].
 
-**Open foundations.** Here the house sits on piers, posts, columns or pilings. Open foundations let floodwater pass underneath. Homes in coastal high-hazard areas (V zones) are generally required to use open foundations [VERIFY].
+**Open foundations.** Here the house sits on piers, posts, columns or pilings. Open foundations let floodwater pass underneath. Homes in coastal high-hazard areas (V zones) are generally required to use open foundations [VERIFY] [PARTIAL SOURCE: https://www.fema.gov/sites/default/files/documents/fema_hurricane-sandy-recovery-fact-sheet.pdf — verify before publishing]. Check your zone's rules with your local floodplain manager.
 
 ### House Leveling and Pier Systems: When a Full Lift Isn't Needed
 
-Not every sagging floor calls for a full lift. For house leveling, contractors may use helical piers or push piers driven deep into stable soil to support and lift sections of a home's foundation back toward level [VERIFY]. For settled concrete slabs, slab jacking pumps grout or polyurethane foam under the slab to fill voids and raise it [VERIFY].
+Not every sagging floor calls for a full lift. For house leveling, contractors may use helical piers or push piers. According to [Angi's guide to foundation repair methods](https://www.angi.com/articles/6-types-foundation-repair.htm), helical piers are screw-like steel shafts driven deep into the soil, while push piers reach down to bedrock. The same guide explains that slab jacking injects grout under a sinking concrete slab to raise it, and high-density polyurethane foam is another option.
 
-These are foundation repair methods, not elevation. For flood protection or a new basement, you'll likely need a complete house lifting project.
+These are foundation repair methods, not elevation. Have a structural engineer or licensed foundation contractor diagnose the cause first. For flood protection or a new basement, you'll likely need a complete house lifting project.
 
 ## Which House Lifting Method Fits Your Home?
 
@@ -112,7 +112,7 @@ Budget separately for structural engineering [COST NEEDED], permits and inspecti
 
 **Utilities need licensed pros.** Gas, electric, water and sewer lines must be safely disconnected and reconnected by licensed plumbers, electricians and your utility companies. Never attempt this yourself.
 
-**Plan to move out.** Living in a house while it's being lifted is generally not recommended [VERIFY], and the full project often takes weeks or longer [VERIFY].
+**Plan to move out.** Living in a house while it's being lifted is generally not recommended [VERIFY] [PARTIAL SOURCE: https://homeguide.com/costs/house-lifting-cost — verify before publishing], and the full project often takes weeks or longer [VERIFY] [PARTIAL SOURCE: https://homeguide.com/costs/house-lifting-cost — verify before publishing].
 
 **Vet your contractor.** Ask for proof of licensing and insurance, similar homes they've raised, and who the engineer is.
 

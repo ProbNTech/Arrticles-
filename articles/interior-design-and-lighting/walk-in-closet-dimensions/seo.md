@@ -13,11 +13,11 @@ walk-in-closet-dimensions
 These questions are not answered directly in the body. Each answer uses only information the article already establishes.
 
 1. **Do I need a permit to add a walk-in closet?**
-   It depends on the work and where you live. Adding shelving usually doesn't change your home's structure, but moving walls or adding wiring can, so check with your local building department before you start.
+   It depends on the work and where you live. Permit rules vary by state and city, especially for moving walls or adding wiring, so check with your local building department before you start.
 2. **Can I install walk-in closet lighting myself?**
    New wiring or light fixtures should be handled by a licensed electrician. Closet fixtures have placement and clearance rules under the National Electrical Code, and local adoption varies.
 3. **How do I measure a room to see if it fits a walk-in closet?**
-   Measure the width and depth wall to wall. Subtract about 24 inches for each wall that will hold hanging storage, and make sure what's left is at least 24 inches of walkway, ideally 30 to 36 inches.
+   Measure the width and depth wall to wall. Across each measurement, subtract about 24 inches for each facing wall that will hold hanging storage. What's left should be at least 24 inches of walkway, ideally 30 to 36 inches.
 
 ```json
 {
@@ -29,7 +29,7 @@ These questions are not answered directly in the body. Each answer uses only inf
       "name": "Do I need a permit to add a walk-in closet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "It depends on the work and where you live. Adding shelving usually doesn't change your home's structure, but moving walls or adding wiring can, so check with your local building department before you start."
+        "text": "It depends on the work and where you live. Permit rules vary by state and city, especially for moving walls or adding wiring, so check with your local building department before you start."
       }
     },
     {
@@ -45,7 +45,7 @@ These questions are not answered directly in the body. Each answer uses only inf
       "name": "How do I measure a room to see if it fits a walk-in closet?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Measure the width and depth wall to wall. Subtract about 24 inches for each wall that will hold hanging storage, and make sure what's left is at least 24 inches of walkway, ideally 30 to 36 inches."
+        "text": "Measure the width and depth wall to wall. Across each measurement, subtract about 24 inches for each facing wall that will hold hanging storage. What's left should be at least 24 inches of walkway, ideally 30 to 36 inches."
       }
     }
   ]
@@ -80,7 +80,7 @@ These questions are not answered directly in the body. Each answer uses only inf
 Not applicable. The search intent is informational, not how-to.
 
 ## 7. BreadcrumbList schema
-The brief has no pillar/cluster field. If the site places this article under its category, use this suggestion (replace the placeholder domain with the real one):
+The brief has no pillar/cluster field. If the site places this article under its category, use this suggestion (replace the {{SITE_URL}} placeholder with the real domain):
 
 ```json
 {
@@ -91,19 +91,19 @@ The brief has no pillar/cluster field. If the site places this article under its
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://example.com/"
+      "item": "{{SITE_URL}}/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Interior Design and Lighting",
-      "item": "https://example.com/interior-design-and-lighting/"
+      "item": "{{SITE_URL}}/interior-design-and-lighting/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Walk-In Closet Dimensions: Sizes for Every Layout",
-      "item": "https://example.com/interior-design-and-lighting/walk-in-closet-dimensions/"
+      "item": "{{SITE_URL}}/interior-design-and-lighting/walk-in-closet-dimensions/"
     }
   ]
 }
@@ -122,9 +122,11 @@ The brief has no pillar/cluster field. If the site places this article under its
 ## 9. Internal link suggestions
 - Reach-in closet dimensions and standard closet sizes
 - Closet rod and shelf height guide
-- Closet lighting ideas (with an electrician safety note)
+- Closet lighting ideas (with an electrician safety note); related sibling: [How to mimic sunlight indoors](/how-to-mimic-sunlight-indoors/)
 - Master bedroom layout and size planning
 - Small closet organization ideas
 - Converting a spare bedroom into a dressing room or walk-in closet
-- How to tell if a wall is load-bearing
+- How to tell if a wall is load-bearing; related sibling: [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/)
 - Custom closet systems vs. DIY closet organizers
+- Accessibility planning: [Width of doorways for wheelchair access](/width-of-doorways-for-wheelchair-access/)
+- Whole-home updates: [How to modernize your home interior](/how-to-modernize-your-home-interior/)

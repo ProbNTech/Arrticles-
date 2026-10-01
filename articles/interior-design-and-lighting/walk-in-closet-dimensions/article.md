@@ -25,7 +25,7 @@ Why 4 feet? It's the sum of two numbers: [24 inches needed to hang clothes, plus
 
 ## The Three Numbers Behind Every Walk-In Closet Size
 
-Every walk-in closet layout is built from the same three measurements. Learn these, and you can sketch your own closet design before you call anyone.
+Every walk-in closet layout is built from the same three measurements.
 
 ### 1. Hanging depth: 24 inches
 
@@ -35,19 +35,19 @@ A hanging rod needs about 24 inches of depth from the wall so hangers and clothe
 
 Your walkway is the open floor between storage sections. [HomeGuide sets 24 inches as the minimum](https://homeguide.com/articles/walk-in-closet-dimensions) and says 30 to 36 inches is more comfortable, especially in shared closets.
 
-If you plan a drawer stack, remember that an open drawer sticks out into the aisle. You'll want room to stand in front of it while it's pulled out. [VERIFY]
+If you plan a drawer stack, remember that an open drawer sticks out into the aisle. You'll want room to stand in front of it while it's pulled all the way out, not off to the side. [PARTIAL SOURCE: https://www.inspiredclosets.com/learning-center/custom-closets/how-to-design-a-walk-in-closet-that-works-for-you/ — verify before publishing]
 
 ### 3. Vertical space: rod heights
 
-Height matters as much as floor area. For a double-hang setup, a common guideline places the top rod about 80 inches from the floor and the lower rod about 40 inches from the floor. [PARTIAL SOURCE: https://www.angi.com/articles/closet-shelving-height.htm — verify before publishing] That leaves room for shirts and jackets on both rods. Long-hang sections for dresses and coats sit higher on a single rod. [VERIFY]
+Height matters as much as floor area. For a double-hang setup, [Angi's closet shelving height guide places the top rod about 80 inches from the floor and the lower rod about 40 inches from the floor](https://www.angi.com/articles/closet-shelving-height.htm). That leaves room for shirts and jackets on both rods. Long items like dresses and coats need a single rod instead, which [Angi sets at about 66 inches](https://www.angi.com/articles/closet-shelving-height.htm) so they don't drag on the floor.
 
 Open shelves above the rods hold bags, sweaters, and off-season items, so you gain closet storage without adding floor space.
 
-Here's the simple formula: add up the storage depth on each wall you plan to use, then add your walkway. That total is the minimum width your closet needs.
+Here's the simple formula: add up the storage depth on the walls that face each other across the closet, then add your walkway. That total is the minimum width your closet needs. For example, one 24-inch side plus a 24-inch walkway is 48 inches, or 4 feet.
 
 ## Walk-In Closet Dimensions by Layout
 
-Different walk-in closet layouts need different amounts of room. Here are the sizes closet companies and home-services guides most often list.
+Different walk-in closet layouts need different amounts of room. [Angi lists about 7 x 10 feet as a common walk-in closet size](https://www.angi.com/articles/walk-in-closet-dimensions.htm). Here are the sizes closet companies and home-services guides most often list for each layout.
 
 | Layout | Suggested size | Best for |
 |---|---|---|
@@ -77,7 +77,7 @@ A U-shaped walk-in, sometimes called a wrap-around walk-in closet, puts storage 
 
 ### Island walk-in closet
 
-An island in the middle adds drawers and a flat surface for folding or packing. It also needs clearance on every side. [HomeGuide puts the minimum at about 10 x 10 feet](https://homeguide.com/articles/walk-in-closet-dimensions) so you get at least 24 inches of clearance around the island. [California Closets suggests at least 36 inches of clearance](https://www.californiaclosets.com/blog/ideal-walk-in-closet-size/), which is the more comfortable target if drawers open toward the island.
+An island in the middle adds drawers and a flat surface for folding or packing. It also needs clearance on every side. [HomeGuide puts the minimum at about 10 x 10 feet](https://homeguide.com/articles/walk-in-closet-dimensions) so you get at least 24 inches of clearance around the island. [California Closets suggests at least 36 inches of clearance](https://www.californiaclosets.com/blog/ideal-walk-in-closet-size/), which is the more comfortable target if drawers open toward the island. But it takes more room: with 24-inch storage on both walls and a 24-inch-deep island, 36 inches per side adds up to about 12 feet across.
 
 ## How Big Should a Walk-In Closet Be for Two People?
 
@@ -85,13 +85,13 @@ A shared closet for two people needs more width and more walkway. [Inspired Clos
 
 A double-sided layout is the natural fit. [Angi notes](https://www.angi.com/articles/walk-in-closet-dimensions.htm) that it gives each person their own side and works in a room around 7 x 7 feet. Aim for a 30- to 36-inch aisle so you can pass each other near open drawers.
 
-Before you settle on a size, count your storage needs. How many feet of hanging rod do you each use now? How many drawers? That list tells you more than any average walk-in closet size can.
+Before you settle on a size, count how many feet of hanging rod and how many drawers you each use now. That list tells you more than any average size can.
 
 ## Planning for Accessibility
 
 If anyone in your home uses a wheelchair, or you're planning to age in place, standard sizes won't be enough. According to [Inspired Closets](https://www.inspiredclosets.com/learning-center/custom-closets/walk-in-closet-sizing-how-to-know-how-much-space-you-need/), ADA guidelines call for a clear space of 30 inches wide by 48 inches deep to fit a wheelchair. That clear floor space is in addition to the storage itself.
 
-Accessible closets also benefit from lower rods and pull-down rods, so items stay within reach. [VERIFY] For a closet that needs to meet specific accessibility rules, talk with a designer or contractor who works with ADA standards.
+Reach matters too. The ADA covers public buildings, not homes, but it's a useful guide. [The U.S. Access Board's guide to reach ranges](https://www.access-board.gov/ada/guides/chapter-3-operable-parts/) sets 15 to 48 inches above the floor. Since a standard rod sits well above 48 inches, lower or pull-down rods help. For a closet that needs to meet specific accessibility rules, talk with a designer or contractor who works with ADA standards.
 
 ## What Closet Designers Warn About Small Walk-Ins
 
@@ -103,18 +103,18 @@ The takeaway: if your space only just hits the minimum, a well-organized reach-i
 
 ## Before You Build: Walls, Lighting, and Budget
 
-Creating a walk-in closet often means more than adding shelves. You might borrow space from a bedroom, move a wall, or add a light fixture.
+Creating a walk-in closet may mean borrowing bedroom space, moving a wall, or adding a light.
 
-**Moving or removing walls.** Some interior walls are load-bearing, and removing them without proper support can damage your home. Talk to a licensed contractor or structural engineer before you move any wall, and check with your local building department about permit rules, which vary by state and city. [VERIFY]
+**Moving or removing walls.** Some interior walls are load-bearing, and removing them without proper support can damage your home. Talk to a licensed contractor or structural engineer before you move any wall, and check with your local building department about permit rules, which vary by state and city.
 
-**Adding lighting.** Good light makes a closet usable, but closet light fixtures have specific placement and clearance rules under the National Electrical Code (NEC), and local adoption varies. [VERIFY] Hire a licensed electrician for any new wiring or fixture, and check your local codes before work starts.
+**Adding lighting.** Good light makes a closet usable, but closet light fixtures have [specific placement and clearance rules under the National Electrical Code (NEC)](https://www.townofnaples.org/vertical/sites/%7B16A86E29-4A60-4E08-9440-2A862262DC56%7D/uploads/Luminaires_in_Clothes_Closets_(1).pdf), and local adoption varies. Hire a licensed electrician for any new wiring or fixture, and check your local codes before work starts.
 
-**Budget.** The cost of a custom closet system depends on size, materials, and features like drawers and lighting. [COST NEEDED]
+**Budget.** The cost of a custom closet system depends on size, materials, and features like drawers and lighting. [Angi puts the average walk-in closet at $1,000 to $8,000](https://www.angi.com/articles/how-much-do-custom-closets-cost.htm), with lighting upgrades and specialty drawers adding to the total.
 
 ## Measure Twice, Then Decide
 
-If you remember one thing, make it this: the walkway is what turns storage into a walk-in. Hanging depth is fixed at about 24 inches, but the aisle is where comfort is won or lost, so protect it before you add one more drawer.
+If you remember one thing, make it this: the walkway is what turns storage into a walk-in. Hanging depth stays close to 24 inches, but the aisle is where comfort is won or lost, so protect it before you add one more drawer.
 
-Today, measure the width and depth of your space, wall to wall. Sketch your favorite layout on graph paper with those numbers, leaving at least 30 inches for the aisle. You'll know quickly whether you're looking at a single-sided closet, a double-sided one, or something bigger.
+Measure your space wall to wall, then sketch your layout on graph paper, leaving at least 30 inches for the aisle. You'll quickly see if your space fits a single-sided closet, a double-sided one, or something bigger.
 
 *Reviewed by our editorial team, informed by closet design professionals and the industry sources cited above.*

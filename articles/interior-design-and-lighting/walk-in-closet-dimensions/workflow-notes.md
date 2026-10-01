@@ -81,5 +81,5 @@ PAA data could not be pulled directly (no SERP feature access). PAA-style questi
 - Homeowner experience → unresolved [USER EXPERIENCE NEEDED]. A Reddit-targeted search returned no real posts, and the Houzz search was blocked by the cap.
 
 ## Final word count check
-- article.md body (after front matter, link URLs excluded): **1,638 words**, including placeholder tags and table markup. Prose alone is about **1,595 words**.
-- Target: 1,500–1,600. Within range, so no gap statement is needed.
+- Updated after QA pass (see qa-report.md): article.md body (after front matter) is **1,726 words** by `wc -w`, including URLs and table markup. Prose alone (link URLs and table pipes stripped) is about **1,701 words**.
+- Target: 1,500–1,600. That is above the range but inside the ±10% tolerance (1,760 max). The increase comes from sourced facts that replaced tags (rod heights, ADA reach range, cost, island clearance math).

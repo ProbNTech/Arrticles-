@@ -66,5 +66,5 @@ All CORE entities have a heading home. No method is described as a DIY procedure
 - Total cited sources: 8 unique URLs
 
 ## Final word count check
-article.md body (excluding front matter and H1, link URLs not counted): 1,697 words. Target 1,600-1,700. Within range; no gap statement needed.
-Unresolved tags: [COST NEEDED] x2; [VERIFY] x9.
+article.md body (excluding front matter, H1, link URLs and PARTIAL SOURCE notes): 1,746 words after the QA pass (previously 1,697). Target 1,600-1,700; within ±10% (max 1,870). No gap statement needed.
+Unresolved tags after QA: [COST NEEDED] x2; [VERIFY] x7; [PARTIAL SOURCE] x3. Wikipedia citations replaced with FEMA P-312 and The Devillier Group (see qa-report.md).

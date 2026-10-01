@@ -88,13 +88,13 @@ Not applicable. Search intent is informational, not how-to. The article also del
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home" },
-    { "@type": "ListItem", "position": 2, "name": "Additions and Structural" },
-    { "@type": "ListItem", "position": 3, "name": "House Lifting Methods" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Additions and Structural", "item": "{{SITE_URL}}/additions-and-structural/" },
+    { "@type": "ListItem", "position": 3, "name": "House Lifting Methods", "item": "{{SITE_URL}}/house-lifting-methods/" }
   ]
 }
 ```
-(Add `item` URLs once the site's live category and article URLs are known.)
+(Replace `{{SITE_URL}}` and confirm the category path once the live URLs are known.)
 
 ## 8. Image placement suggestions
 1. **After "How Does House Lifting Work?" list** - A wood-frame house raised several feet on steel beams, with cross-stacked timber cribbing towers beneath it. Alt text: "House raised on steel beams and timber cribbing during a house lifting project"
@@ -103,6 +103,11 @@ Not applicable. Search intent is informational, not how-to. The article also del
 4. **In "Extended Foundation Walls vs. Open Foundations"** - An elevated coastal home on pilings next to a home on extended block foundation walls with flood vents. Alt text: "Elevated homes on pilings and on extended foundation walls with flood openings"
 
 ## 9. Internal link suggestions
+Sibling articles on this site:
+- [ADU vs. DADU](/adu-vs-dadu/) - alternative ways to add living space (link from "Additional living space" bullet)
+- [Parts of a staircase](/parts-of-a-staircase/) - new entry stairs are needed once a home is raised (link from "Lowering" step or the conclusion)
+
+Topics with no sibling article yet (plain suggestions):
 - Foundation repair methods (helical piers vs. push piers)
 - Signs of foundation problems and settlement
 - Flood-proofing your home / flood vents explained

@@ -61,4 +61,4 @@ Searches run: "aluminium French door"; "aluminum French doors pros and cons home
 - [VERIFY] ×8 (outswing/rain, coastal use, Low-E/gas fills, safety glazing code, impact standards, anodizing definition, permit rules, coastal rinsing): unresolved; code items stay [VERIFY] per safety rule.
 
 ## Final word count check
-Article body (H1 through disclosure line, excluding front matter and link URLs): **~1,493 words**. Target: 1,400–1,500. Within range; no gap statement needed.
+Article body (H1 through disclosure line, excluding front matter and link URLs): **1,564 words** (`wc -w`, recounted in the QA pass; the earlier ~1,493 figure predates QA edits). Target: 1,400–1,500. Within the ±10% tolerance (max 1,650); no gap statement needed.
