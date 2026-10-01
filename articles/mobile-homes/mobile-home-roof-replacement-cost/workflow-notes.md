@@ -69,5 +69,5 @@ Overlap flagged: the roof-over section and the data plate section both touch wei
 - User experience: two real, linkable threads were found. https://www.garagejournal.com/forum/threads/1970-mobile-home-new-roof-and-leveling-options.358989/ and https://www.homesteadingtoday.com/threads/metal-roof-over-single-wide-trailer-can-it-be-done.531979/ . The details come from search snippets, so [VERIFY] was added. The editor should open both threads and confirm the paraphrase.
 
 ## Final word count check
-- Body of article.md (H1 through the disclosure line, including headings, tables and tags, with link URLs excluded): **1,723 words**. Excluding the H1 and the placeholder/partial-source tag text: about **1,675 words**.
-- Target: 1,600–1,700. The article is within range (slightly over only when tag text is counted). No gap statement is needed.
+- After QA pass (2026-10-01): body of article.md (H1 through the disclosure line, including headings, tables and tags, link URLs excluded): **1,828 words** (was 1,723). Growth came from resolving tags with sourced sentences (IRC shingle slope, HUD data plate, HomeGuide lifespan and repair figures).
+- Target: 1,600–1,700; ±10% tolerance allows up to 1,870. Within tolerance. See qa-report.md.

@@ -22,7 +22,7 @@ Three widely cited cost guides land in the same zone, but their ranges differ.
 | Source | Typical total | Single-wide | Double-wide | Per sq ft |
 |---|---|---|---|---|
 | Fixr | $4,000–$7,000 (avg. $5,500) | $1,350–$5,535 | $1,875–$9,225 | $2.50–$4.50 |
-| Angi | about $5,000 average | $1,300–$6,500 | $3,150–$9,500 | $3.50–$5.00 |
+| Angi | $1,900–$9,500 (avg. about $5,000) | $1,300–$6,500 | $3,150–$9,500 | $3.50–$5.00 |
 | HomeGuide | — | $1,500–$9,600 | $3,000–$16,000 | $3.00–$8.00 installed |
 
 [Fixr's national average cost of $5,500](https://www.fixr.com/costs/mobile-home-roof-replacement) assumes a new asphalt shingle roof on a 1,500 sq ft double-wide with roughly 1,580 sq ft of roof surface. It also lists triple-wide homes at $9,225 to $13,860. [Angi's 2026 data](https://www.angi.com/articles/cost-to-replace-mobile-home-roof.htm) puts its average near $5,000, and [HomeGuide's 2026 ranges](https://homeguide.com/costs/mobile-home-roof-replacement-cost) run the widest because they include pricier materials like metal.
@@ -40,11 +40,11 @@ The type of roof you choose has the biggest single effect on your price. Here's 
 | Asphalt shingles | $3.00–$5.00 | $1,500–$6,000 | $3,000–$10,000 |
 | Metal | $4.00–$6.00 | $2,500–$19,200 | $5,000–$32,000 |
 
-Sources: [Angi's material breakdown](https://www.angi.com/articles/cost-to-replace-mobile-home-roof.htm) and [HomeGuide's cost by material](https://homeguide.com/costs/mobile-home-roof-replacement-cost).
+Sources: [Angi's material breakdown](https://www.angi.com/articles/cost-to-replace-mobile-home-roof.htm) and [HomeGuide's cost by material](https://homeguide.com/costs/mobile-home-roof-replacement-cost). HomeGuide's top-end material prices for membranes and metal run higher than its overall single-wide and double-wide ranges, so treat those upper figures as premium, large-roof jobs.
 
-Liquid coating is the cheapest, but it's a coating over an existing roof, not a true replacement. Rubber and TPO membranes are a common fit for flat and low-slope mobile home roofs. Asphalt shingles need enough roof pitch to shed water, so they're usually an option only on pitched roofs or as part of a roof-over [VERIFY].
+Liquid coating is the cheapest, but it's a coating over an existing roof, not a true replacement. Rubber and TPO membranes are a common fit for flat and low-slope mobile home roofs. Asphalt shingles need enough roof pitch to shed water. The [International Residential Code's roofing chapter](https://codes.iccsafe.org/content/IRC2018/chapter-9-roof-assemblies), a model code for site-built homes, allows them only on slopes of 2:12 (2 inches of rise per 12 inches of run) or steeper. Manufactured homes follow HUD rules instead, so ask your roofer what applies to your home [VERIFY]. HomeGuide also notes that most contractors don't recommend shingles for flat mobile home roof-overs because of their weight.
 
-Metal roofing materials cost the most up front and show the widest range of any option. Fixr lists insulated metal at $6 or more per square foot. How long each roof lasts also varies a lot by material, from roughly a decade for some coatings and membranes to several decades for metal [VERIFY].
+Metal roofing materials cost the most up front and show the widest range of any option. Fixr lists insulated metal at $6 or more per square foot. How long each roof lasts also varies a lot by material. [HomeGuide puts mobile home roof lifespans at 10 to 80 years](https://homeguide.com/costs/mobile-home-roof-replacement-cost), with metal at the top end, lasting 30 to 80 years.
 
 ## What Can Increase the Cost of Replacing Your Roof?
 
@@ -79,7 +79,7 @@ That weight question leads straight to one document worth checking before you si
 
 ## Check Your Data Plate Before Choosing a Material
 
-Homes built to the HUD code since 1976 [VERIFY] carry a data plate, a paper label usually found inside the home near the electrical panel, in a kitchen cabinet, or in a bedroom closet [PARTIAL SOURCE: https://www.hud.gov/hud-partners/manufactured-home-labels — verify before publishing]. It lists the wind zone and roof load zone your home was built for.
+Manufactured homes built after June 15, 1976, must meet HUD's construction standards. According to [HUD's guide to manufactured home labels](https://www.hud.gov/hud-partners/manufactured-home-labels), these homes have a data plate inside, usually on or near the main electrical panel, in a kitchen cabinet, or in a bedroom closet. Its maps show the wind zone, snow load, and roof load your home was built for.
 
 Federal installation rules say a manufactured home must not be placed in a roof load zone that exceeds the design roof load shown on its data plate, per [HUD's installation standards at 24 CFR 3285 (2010 edition)](https://www.govinfo.gov/content/pkg/CFR-2010-title24-vol5/pdf/CFR-2010-title24-vol5-sec3285-201.pdf). In other words, your roof was engineered for a specific load, and a heavy material or second layer adds to it.
 
@@ -90,7 +90,7 @@ Share a photo of your data plate with any roofer you're considering, and ask how
 Not every leak means it's time to replace your roof. A roof inspection from a qualified roofer will tell you which path fits.
 
 - **Recoat** if the roof is sound and the surface is just worn. Coating costs roughly $1.50 to $3.50 per sq ft, per Angi's figures above. A roof coating can also help reflect heat [VERIFY].
-- **Repair** if the damage is limited to one area, like a failed seam or a single leak around a vent. [COST NEEDED]
+- **Repair** if the damage is limited to one area, like a failed seam or a single leak around a vent. HomeGuide prices [flat roof repairs at $300 to $1,100 on average](https://homeguide.com/costs/flat-roof-repair-cost). These are general flat-roof figures, not mobile-home-specific ones.
 - **Replace** if the roof is damaged in several spots, the deck feels soft, or the existing roof has been patched over and over. Spending on repeated fixes can end up costing more than a new roof [VERIFY].
 
 How often coatings need to be redone depends on the product and your climate, so ask the installer for the expected service life in writing [VERIFY].

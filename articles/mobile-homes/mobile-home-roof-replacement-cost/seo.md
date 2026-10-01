@@ -4,7 +4,7 @@
 Mobile Home Roof Replacement Cost: 2026 Price Guide  (51 characters)
 
 ## 2. Meta description
-Mobile home roof replacement cost runs about $1,300 to $16,000. See prices by material and home width, roof-over vs. tear-off, and what drives your quote.  (153 characters)
+Mobile home roof replacement cost runs about $1,300 to $16,000. See prices by material and home width, roof-over vs. tear-off, and what drives your quote.  (154 characters)
 
 ## 3. URL slug
 `mobile-home-roof-replacement-cost`
@@ -14,7 +14,7 @@ These questions are not directly answered in a dedicated section of the body. Th
 
 1. **Does homeowners insurance pay for a mobile home roof replacement?** It depends on your policy and the cause of the damage, so check your policy and talk with your insurer before you schedule work. The article does not give coverage figures.
 2. **Can I replace a mobile home roof myself?** Roofing involves ladder and height work and can change the roof's structural load, so our editorial team recommends hiring a licensed roofer who specializes in mobile homes and checking local codes and permit rules first.
-3. **Is a metal roof worth the extra cost on a mobile home?** Metal costs the most up front ($4 to $6 per sq ft per Angi, and up to $19,200 for a single-wide per HomeGuide), but it typically lasts longer than coatings and membranes. Confirm that your roof structure and data plate roof load can handle it first.
+3. **Is a metal roof worth the extra cost on a mobile home?** Metal costs the most up front ($4 to $6 per sq ft per Angi, and up to $19,200 for a single-wide per HomeGuide), and HomeGuide says it lasts 30 to 80 years, longer than other common options. Confirm that your roof structure and data plate roof load can handle it first.
 4. **Does a triple-wide cost much more to re-roof?** Fixr lists triple-wide roof replacements at $9,225 to $13,860, compared with $1,875 to $9,225 for a double-wide.
 
 ```json
@@ -43,7 +43,7 @@ These questions are not directly answered in a dedicated section of the body. Th
       "name": "Is a metal roof worth the extra cost on a mobile home?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Metal costs the most up front, about $4 to $6 per square foot per Angi and up to $19,200 for a single-wide per HomeGuide, but it typically lasts longer than coatings and membranes. Confirm your roof structure and data plate roof load can handle it first."
+        "text": "Metal costs the most up front, about $4 to $6 per square foot per Angi and up to $19,200 for a single-wide per HomeGuide, and HomeGuide says it lasts 30 to 80 years, longer than other common options. Confirm your roof structure and data plate roof load can handle it first."
       }
     },
     {
@@ -106,11 +106,15 @@ The brief has no pillar/cluster field. The article sits in the mobile-homes cate
 4. **In "Check Your Data Plate."** A close-up of a manufactured home data plate inside a kitchen cabinet, with the wind zone and roof load zone map visible. Alt text: "Manufactured home data plate showing wind zone and roof load zone."
 
 ## 9. Internal link suggestions
-- Mobile home roof coating: types, cost, and how often to recoat
-- Mobile home roof repair: fixing leaks, seams, and vent flashing
-- Metal roof-over for mobile homes: pros, cons, and cost
-- How to find and read your HUD data plate and HUD tag
-- Mobile home leveling cost (pairs with roof leaks after a move)
-- Mobile home insulation and energy-saving upgrades
-- How to hire a contractor who specializes in mobile homes
-- Mobile home insurance basics for roof damage claims
+- [Mobile home renovation cost](/mobile-home-renovation-cost/): link from the intro or "What Can Increase the Cost" (budgeting a roof within a larger remodel)
+- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/): link from the data plate / roof structure discussion (load-bearing and truss concerns)
+- [Kitchen ideas for mobile home remodel](/kitchen-ideas-for-mobile-home-remodel/): optional, from "The Bottom Line" as a related mobile home project
+- Plain suggestions (no sibling article yet):
+  - Mobile home roof coating: types, cost, and how often to recoat
+  - Mobile home roof repair: fixing leaks, seams, and vent flashing
+  - Metal roof-over for mobile homes: pros, cons, and cost
+  - How to find and read your HUD data plate and HUD tag
+  - Mobile home leveling cost (pairs with roof leaks after a move)
+  - Mobile home insulation and energy-saving upgrades
+  - How to hire a contractor who specializes in mobile homes
+  - Mobile home insurance basics for roof damage claims
