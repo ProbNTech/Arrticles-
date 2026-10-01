@@ -70,5 +70,5 @@ We used the NeuronWriter list, merged with these search-derived terms.
 | Wall length, solid-core sound, track repair, accessibility, glass example | Unresolved (searches could not run because the budget was exhausted). |
 
 ## Final word count check
-- article.md body (after front matter, link URLs excluded, headings and tags included): **1,287 words**. Target: 1,200–1,300. Within range, so no gap statement is needed.
-- Note: the "What Homeowners Say" section holds only its [USER EXPERIENCE NEEDED] tag. Once filled (~100–120 words), the body will land around 1,390–1,400, so trim elsewhere at that point.
+- After QA pass (2026-10-01): article.md body (after front matter, link URLs excluded, headings and tags included): **1,337 words**. Target: 1,200–1,300. That is 37 words (about 3%) over the top of the range, within the ±10% tolerance. The increase comes from new cited facts (rough-opening rule, 32/36-inch costs, frame-kit example, barn door costs and privacy).
+- The "What Homeowners Say" section still holds only its [USER EXPERIENCE NEEDED] tag. Once filled (~100–120 words), the body will land around 1,440–1,460, so trim elsewhere at that point.
