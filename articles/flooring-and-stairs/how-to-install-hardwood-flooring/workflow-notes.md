@@ -71,4 +71,4 @@ Full draft re-read before auditing.
 Sources cited as resolved links: 4 unique URLs (NWFA PDF, Wood Floor Business, Young House Love, sachilord.com). Partial-source URLs: 2 (oregonfloortrends.com, homeadvisor.com).
 
 ## Final word count check
-article.md body (H1 through disclosure line, link URLs excluded): about 1,607 words. Excluding the H1 and disclosure line, about 1,585. Target: 1,500–1,600. Within range, so no gap statement is required.
+After the QA pass (see qa-report.md): article.md body from the H1 through the disclosure line, link URLs excluded, is 1,730 words with placeholder-tag text included, or about 1,714 without the [PARTIAL SOURCE] notes. Target: 1,500–1,600. That is within the allowed ±10% (up to 1,760), near the top end. The added words come from the sourced NWFA fastener spec and the Angi city labor figures.

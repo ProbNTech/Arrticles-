@@ -1,10 +1,10 @@
 # SEO Elements: How to Install Hardwood Flooring
 
 ## 1. SEO title
-How to Install Hardwood Flooring: Step-by-Step DIY Guide (55 characters)
+How to Install Hardwood Flooring: Step-by-Step DIY Guide (56 characters)
 
 ## 2. Meta description
-Learn how to install hardwood flooring, from acclimating boards and prepping the subfloor to nailing the first row. Plan your weekend project today. (149 characters)
+Learn how to install hardwood flooring, from acclimating boards and prepping the subfloor to nailing the first row. Plan your weekend project today. (148 characters)
 
 ## 3. URL slug
 how-to-install-hardwood-flooring
@@ -14,7 +14,7 @@ Questions chosen because the body does not answer them in a dedicated section.
 
 - **Can you install solid hardwood flooring on a concrete slab?** Concrete slabs are usually paired with engineered hardwood that is glued down or floated, not nailed solid hardwood. Check your flooring manufacturer's instructions for what it approves over concrete.
 - **Can hardwood flooring go over radiant floor heating?** Some engineered products designed to float are approved for certain radiant-heat floors. Confirm approval in the manufacturer's installation sheet before buying.
-- **When should you hire a pro instead of installing hardwood yourself?** Consider a pro for large open floor plans, rooms with many angles or stairs, or a tight schedule. Call a licensed contractor or structural engineer right away if the floor bounces, sags, or has damaged joists.
+- **When should you hire a pro instead of installing hardwood yourself?** Consider a pro for large open floor plans or rooms with many angles, closets, or stairs. Call a licensed contractor or structural engineer right away if the floor bounces, sags, or has damaged joists.
 - **Do baseboards go on before or after a new hardwood floor?** Baseboard and quarter round go on after the floor so they can hide the expansion gap. Nail trim into the wall, not the floor, so the boards can still move.
 
 ```json
@@ -43,7 +43,7 @@ Questions chosen because the body does not answer them in a dedicated section.
       "name": "When should you hire a pro instead of installing hardwood yourself?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Consider a pro for large open floor plans, rooms with many angles or stairs, or a tight schedule. Call a licensed contractor or structural engineer right away if the floor bounces, sags, or has damaged joists."
+        "text": "Consider a pro for large open floor plans or rooms with many angles, closets, or stairs. Call a licensed contractor or structural engineer right away if the floor bounces, sags, or has damaged joists."
       }
     },
     {
@@ -130,13 +130,13 @@ totalTime omitted (no sourced time estimate; the article's time note carries [VE
       "@type": "HowToStep",
       "position": 3,
       "name": "Plan the layout and lay the first row",
-      "text": "Run boards perpendicular to the joists, snap a chalk line that sets the expansion gap, mix boards from several cartons, and face-nail the first row with the groove toward the wall."
+      "text": "Plan the board direction (most installers run boards perpendicular to the floor joists), snap a chalk line that sets the expansion gap, mix boards from several cartons, dry-lay rows to plan the stagger, and face-nail the first row with the groove toward the wall."
     },
     {
       "@type": "HowToStep",
       "position": 4,
       "name": "Nail the field and stagger the joints",
-      "text": "Blind-nail through each tongue with the flooring nailer at the spacing your product specifies, and stagger end joints so seams in neighboring rows never line up."
+      "text": "Test the flooring nailer on a scrap, then blind-nail through each tongue at the spacing your product specifies, and stagger end joints so seams in neighboring rows never line up."
     },
     {
       "@type": "HowToStep",
@@ -149,16 +149,16 @@ totalTime omitted (no sourced time estimate; the article's time note carries [VE
 ```
 
 ## 7. BreadcrumbList schema
-Replace `https://[YOUR-DOMAIN]` with the site's real domain before publishing (no URL invented here).
+`{{SITE_URL}}` is a placeholder for the site's real domain; replace it at publish time.
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://[YOUR-DOMAIN]/" },
-    { "@type": "ListItem", "position": 2, "name": "Flooring and Stairs", "item": "https://[YOUR-DOMAIN]/flooring-and-stairs/" },
-    { "@type": "ListItem", "position": 3, "name": "How to Install Hardwood Flooring", "item": "https://[YOUR-DOMAIN]/flooring-and-stairs/how-to-install-hardwood-flooring/" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+    { "@type": "ListItem", "position": 2, "name": "Flooring and Stairs", "item": "{{SITE_URL}}/flooring-and-stairs/" },
+    { "@type": "ListItem", "position": 3, "name": "How to Install Hardwood Flooring", "item": "{{SITE_URL}}/flooring-and-stairs/how-to-install-hardwood-flooring/" }
   ]
 }
 ```
@@ -170,6 +170,9 @@ Replace `https://[YOUR-DOMAIN]` with the site's real domain before publishing (n
 4. **In Step 4**: a flooring nailer set on a board's tongue, with staggered end joints visible in the rows behind. Alt text: "Flooring nailer driving a cleat through the tongue while installing hardwood flooring with staggered joints."
 
 ## 9. Internal link suggestions
+- [Parts of a staircase](/parts-of-a-staircase/) (stairs are flagged as a harder area for hardwood installs)
+- [How to modernize your home interior](/how-to-modernize-your-home-interior/) (new hardwood floors as part of an interior update)
+- [Mobile home renovation cost](/mobile-home-renovation-cost/) (budgeting a flooring project within a larger remodel)
 - Solid vs. engineered hardwood: which should you choose?
 - How to remove old carpet and tack strip
 - How to fix a squeaky subfloor

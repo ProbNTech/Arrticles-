@@ -11,7 +11,7 @@ brief: ../../../briefs/flooring-and-stairs/how-to-install-hardwood-flooring.md
 
 You've pulled up the old carpet, priced a few flooring options, and now you're standing on a bare subfloor wondering if you can really do this yourself. Learning how to install hardwood flooring is less about raw skill and more about patience. The boards, the subfloor, and the air in the room all have to be ready before the first nail goes in.
 
-Our editorial team pulled together guidance from the National Wood Flooring Association (NWFA), flooring pros, and DIYers who wrote about their own projects. One couple's biggest lesson came down to a scrap of cardboard. This guide walks through a nail-down solid hardwood floor, with notes on glue-down and floating engineered floors along the way.
+Our editorial team pulled together guidance from the National Wood Flooring Association (NWFA), flooring pros, and DIYers who wrote about their own projects. One lesson from a pair of DIY bloggers came down to a scrap of cardboard. This guide walks through a nail-down solid hardwood floor, with notes on glue-down and floating engineered floors along the way.
 
 > **Quick answer:** To install hardwood flooring, let the boards adjust to your home's humidity, then make sure the subfloor is flat, dry, and solid. Snap a straight starting line with an expansion gap at the walls. Face-nail the first rows, blind-nail the rest through the tongues with a flooring nailer, stagger the end joints, and cover the wall gaps with trim.
 
@@ -53,6 +53,7 @@ The rest of this guide covers nail-down solid hardwood over a plywood subfloor, 
 **Supplies:**
 - Hardwood planks, plus extra for cuts and waste [VERIFY]
 - Flooring cleats or staples sized for your boards
+- Finish nails for face-nailing the first and last rows
 - Underlayment paper or 15-lb roofing felt [VERIFY]
 - Wood putty matched to your finish
 - Shims or spacers, baseboard or quarter round, and transition strips
@@ -79,9 +80,9 @@ Finally, roll out underlayment paper or felt, overlapping the seams as the produ
 
 ## Step 3: Plan the layout and lay the first row
 
-Most installers run boards perpendicular to the floor joists, which gives the nails solid backing [VERIFY]. In many rooms that also means running parallel to the longest wall, which looks best.
+Most installers run boards perpendicular to the floor joists, which gives the nails solid backing [VERIFY]. In many rooms that also means running parallel to the longest wall, which many people find looks best.
 
-Measure off the starting wall at both ends and snap a chalk line. That line sets your expansion gap, the space that lets the wood expand and contract with the seasons. The size of the gap depends on your product, often around 1/2 to 3/4 inch [VERIFY]. Don't trust the wall to be straight. Follow the chalk line.
+Measure off the starting wall at both ends and snap a chalk line. That line sets your expansion gap, the space that lets the wood expand and contract with the seasons. The size of the gap depends on your product. For solid plank, NWFA guidance generally calls for about 3/4 inch at walls and other fixed objects [PARTIAL SOURCE: https://nwfa.org/wp-content/uploads/2026/02/NWFA-Installation-Guidelines.pdf — verify before publishing]. Don't trust the wall to be straight. Follow the chalk line.
 
 Mix boards from several cartons so color and grain spread evenly, and dry-lay a few rows to plan your stagger.
 
@@ -91,7 +92,7 @@ For the first row, pick long, straight hardwood planks. Set the groove side towa
 
 Once there's enough room for the tool, switch to the flooring nailer. Set it on the tongue of each board and strike the plunger with the mallet. That drives a cleat at an angle through the tongue into the subfloor, where the next board will hide it.
 
-Spacing guidance varies by product. Retail and installer guides commonly suggest a fastener every 6 to 10 inches, with one within a couple of inches of each board end [VERIFY]. Your flooring's instructions win if they differ.
+Spacing depends on board width and product. For 3/4-inch solid planks 3 inches or wider, [NWFA nail-down guidelines call for a fastener every 6 to 8 inches](https://www.wfswholesale.com/uploads/6/5/3/7/65378521/nwfa-installation-methods-2019.pdf), 1 to 3 inches from each end joint, with at least two per board. Your flooring's instructions win if they differ.
 
 Stagger the end joints so seams in neighboring rows never line up. Avoid "H" patterns, where joints two rows apart sit side by side. Use the cutoff from the end of one row to start the next, as long as it isn't too short.
 
@@ -113,12 +114,12 @@ A Hawaii interior designer documented a DIY engineered hardwood install and what
 
 ## How much does hardwood floor installation cost?
 
-Doing it yourself saves labor, but you'll still pay for flooring, fasteners, underlayment, trim, and tool rentals. Professional labor for hardwood installation is often quoted at roughly $3 to $8 per square foot, with materials on top [PARTIAL SOURCE: https://www.homeadvisor.com/cost/flooring/install-wood-flooring — verify before publishing] [COST NEEDED]. Prices vary by region, wood species, and subfloor condition, so get two or three local quotes to compare.
+Doing it yourself saves labor, but you'll still pay for flooring, fasteners, underlayment, trim, and tool rentals. National cost guides often put professional labor at about $3 to $6 per square foot, with materials on top [PARTIAL SOURCE: https://www.homeadvisor.com/cost/flooring/install-wood-flooring — verify before publishing] [COST NEEDED]. Local rates run higher in some cities. Angi's city guides list labor at about [$3 to $8 per square foot in Dallas](https://www.angi.com/articles/how-much-does-hardwood-flooring-cost/tx/dallas) and [$3 to $9 in Houston](https://www.angi.com/articles/how-much-does-hardwood-flooring-cost/tx/houston). Prices also vary by wood species and subfloor condition, so get two or three local quotes to compare.
 
 ## Your next step
 
 If there's one thing to take away, it's this: a hardwood floor is only as good as what's under it. Get the moisture and the subfloor right, and the nailing is the easy part.
 
-Today, before you buy anything, walk the room with a straightedge and borrow or buy a moisture meter. What you find will tell you whether you're ready to install, need a weekend of subfloor prep first, or should call a pro.
+Today, before you buy anything, walk the room with a straightedge and borrow or buy a moisture meter. What you find will tell you if you're ready to install, need a weekend of subfloor prep first, or should call a pro.
 
 *Reviewed by our editorial team, informed by licensed professionals and industry sources cited above.*
