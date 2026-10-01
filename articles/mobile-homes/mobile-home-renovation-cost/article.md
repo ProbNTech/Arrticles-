@@ -1,6 +1,6 @@
 ---
 title: "Mobile Home Renovation Cost: 2026 Budget Breakdown"
-slug: mobile-home-renovation-cost-breakdown
+slug: mobile-home-renovation-cost
 meta_description: "Mobile home renovation cost runs about $8,000 to $40,000. See prices by size and project, the hidden costs to plan for, and how to pay for it."
 target_keyword: "mobile home renovation cost"
 category: mobile-homes
@@ -21,7 +21,7 @@ It helps to think about your project in three tiers:
 
 - **Cosmetic refresh:** paint, new flooring, light fixtures, and cabinet hardware. This is where most small budgets go.
 - **Mid-range remodel:** a kitchen or bathroom remodel plus new floors and a few windows.
-- **Full gut renovation:** stripping the home's interior down to the frame and replacing walls, floors, plumbing, wiring, and fixtures. Costs at this level can climb well past the typical range. [COST NEEDED]
+- **Full gut renovation:** stripping the home's interior down to the frame and replacing walls, floors, plumbing, wiring, and fixtures. [HomeGuide puts a full gut renovation at $40,000 to $80,000](https://homeguide.com/costs/mobile-home-renovation-cost), well past the typical range.
 
 The tier matters more than the label "mobile home." A $10,000 budget can make a home look new, but it won't fix a sagging floor or a leaking roof. That's why the size of your home and the scope of the remodel should be settled before you pick a single paint color.
 
@@ -40,45 +40,45 @@ Here's a quick way to compare:
 
 Keep in mind that mobile home ranges like these are national averages. Labor rates in your area can push your final cost higher or lower. [STAT NEEDED]
 
-## Cost Breakdown by Project
+## What Do the Biggest Renovation Projects Cost?
 
 Most renovation budgets get eaten by a handful of big-ticket jobs. Here's what each one tends to cost.
 
 ### Kitchen and Bathroom Remodels
 
-The kitchen is the heart of the home, and it's usually the priciest room to redo. HomeGuide lists a small kitchen remodel at about $150 to $250 per square foot. [PARTIAL SOURCE: https://homeguide.com/costs/mobile-home-renovation-cost — verify before publishing] Mobile home kitchens tend to be compact, which helps keep the total down.
+The kitchen is the heart of the home, and it's usually the priciest room to redo. [HomeGuide lists a mobile home kitchen renovation at $3,000 to $20,000](https://homeguide.com/costs/mobile-home-renovation-cost), or about $150 to $250 per square foot for a small kitchen. Mobile home kitchens tend to be compact, which helps keep the total down.
 
-Bathroom remodel costs vary even more, at roughly $100 to $500 per square foot depending on fixtures and finishes. [PARTIAL SOURCE: https://homeguide.com/costs/mobile-home-renovation-cost — verify before publishing] A mobile home bathroom remodel can also uncover water damage around the tub or toilet. Budget a cushion for that.
+Bathroom remodel costs vary even more. The same HomeGuide guide puts a mobile home bathroom remodel at $2,000 to $17,600, or roughly $100 to $500 per square foot depending on fixtures and finishes. A mobile home bathroom remodel can also uncover water damage around the tub or toilet. Budget a cushion for that.
 
 If your remodel moves sinks, adds outlets, or changes a range from electric to gas, that work involves plumbing, electrical, or gas lines. Hire a licensed plumber, electrician, or gas fitter, and check local permit rules before anyone starts. [VERIFY] Gas line work in particular should never be a DIY job.
 
 ### Flooring and Subfloor
 
-New flooring is one of the most popular upgrades, and HomeGuide puts installation at about $2 to $16 per square foot, depending on the material. [HomeGuide](https://homeguide.com/costs/mobile-home-renovation-cost)
+New flooring is one of the most popular upgrades. [HomeGuide puts flooring installation at about $2 to $16 per square foot](https://homeguide.com/costs/mobile-home-renovation-cost), depending on the material.
 
-But flooring in a mobile home has a catch. Many older homes used particleboard subfloors that swell and crumble when they get wet. Subfloor repair runs about $2 to $10 per square foot, with most homeowners spending $500 to $700, and a full subfloor replacement in a mobile home runs about $1,800 to $3,000. [PARTIAL SOURCE: https://www.angi.com/articles/how-much-does-it-cost-fix-floors-mobile-home.htm — verify before publishing]
+But flooring in a mobile home has a catch. Many older homes used particleboard subfloors that swell and crumble when they get wet. [Angi's mobile home floor repair data](https://www.angi.com/articles/how-much-does-it-cost-fix-floors-mobile-home.htm) puts subfloor repair at about $2 to $10 per square foot, with most homeowners spending $500 to $700. A full subfloor replacement in a mobile home runs about $1,800 to $3,000.
 
 Pull up a corner of the old flooring before you order new material. If the subfloor is soft, fix it first, or your new floor will fail early.
 
 ### Roof Replacement or Roof Over
 
-A leaky roof can wreck every other upgrade you make. [Angi's mobile home roof replacement data](https://www.angi.com/articles/cost-to-replace-mobile-home-roof.htm) shows a typical range of $1,900 to $9,500, with an average of about $5,000. Single-wides run about $1,300 to $6,500, and double-wides about $3,150 to $9,500. If old roofing layers have to come off first, Angi notes that tear-off can add $0.50 to $3.50 per square foot.
+A leaky roof can wreck every other upgrade you make. [Angi's mobile home roof replacement data](https://www.angi.com/articles/cost-to-replace-mobile-home-roof.htm) shows a typical range of $1,900 to $9,500, with an average of about $5,000. Single-wides run about $1,300 to $6,500, and double-wides about $3,150 to $9,500. Angi also suggests budgeting $300 to $2,000 for extra roof layer removal and structural repairs. Other cost guides publish wider ranges, especially for metal roofs, so see our [mobile home roof replacement cost guide](/mobile-home-roof-replacement-cost/) for a side-by-side comparison.
 
 Roof work means ladders, height, and the home's structure. Hire a licensed, insured roofer who has worked on manufactured homes. Ask whether your area requires a permit for a roof over or a full replacement, since rules vary by state and city. [VERIFY]
 
 ### Exterior Upgrades: Windows, Siding, Doors, and Skirting
 
-Your mobile home exterior affects comfort, energy use, and curb appeal. HomeGuide lists window replacement at $250 to $700 per window, new siding at $4 to $13 per square foot, and a new exterior door at $300 to $1,900. [HomeGuide](https://homeguide.com/costs/mobile-home-renovation-cost)
+Your mobile home exterior affects comfort, energy use, and curb appeal. [HomeGuide's mobile home renovation guide](https://homeguide.com/costs/mobile-home-renovation-cost) lists window replacement at $250 to $700 per window, new siding at $4 to $13 per square foot, and a new exterior door at $300 to $1,900.
 
-Skirting, the panels that close off the space under the home, also counts. It keeps out pests and cold air. New skirting typically costs [COST NEEDED].
+Skirting, the panels that close off the space under the home, also counts. It keeps out pests and cold air. [Angi puts the average mobile home skirting cost at $2,400](https://www.angi.com/articles/mobile-home-skirting-installation.htm), with most projects falling between $500 and $7,700 depending on material and home size.
 
-## The Hidden Costs Most Budgets Miss
+## What Hidden Costs Do Most Budgets Miss?
 
 The surprises in a mobile home remodel usually sit under the floor, behind the walls, or under the home itself. Plan for these before you commit to new cabinets.
 
 **Leveling.** If doors stick or floors slope, the home may need to be re-leveled. [This Old House](https://www.thisoldhouse.com/foundations/mobile-home-leveling-cost) puts mobile home leveling at $450 to $900 on average, about $600 or less for a single-wide and around $900 for a double-wide. If the foundation itself needs repairs, that can add around $4,500. Leveling involves jacking and supporting the home's frame, so leave it to a licensed mobile home setup or foundation contractor.
 
-**Permits.** Angi estimates permits for a major remodel at $460 to $2,860. [Angi](https://www.angi.com/articles/mobile-home-renovation-cost.htm) Whether you need one depends on the work and your location. [VERIFY]
+**Permits.** [Angi estimates permits for a major remodel at $460 to $2,860](https://www.angi.com/articles/mobile-home-renovation-cost.htm). Whether you need one depends on the work and your location. [VERIFY]
 
 **Older homes.** The date your home was built matters. Homes built after June 15, 1976, must meet HUD's Manufactured Home Construction and Safety Standards, known as the HUD Code, and carry a red certification label on each section. [HUD's manufactured housing resources](https://www.hud.gov/hud-partners/manufactured-home-resources) Homes built before that date are technically "mobile homes," and they may hide outdated wiring or plumbing. [VERIFY] If you see scorched outlets, flickering lights, or an old breaker panel, call a licensed electrician before you open any walls.
 
@@ -95,7 +95,7 @@ Following that order means no one tears out your brand-new floor to reach a rott
 
 Cost guides give you ranges. Real projects show you where the money actually went.
 
-[USER EXPERIENCE NEEDED]
+One low-budget example comes from the homeowners behind [Our Repurposed Home's single-wide remodel](https://www.ourrepurposedhome.com/mobile-home-remodel/). They kept the project under $3,000 by doing the work themselves. They painted the oak-look kitchen cabinets white, reused the original hardware, and kept the countertops. They also laid floating vinyl plank flooring over the old floors and removed two hard-to-use corner cabinets. Their story shows how far a cosmetic refresh can go when the home's structure is already sound.
 
 [CASE STUDY NEEDED]
 

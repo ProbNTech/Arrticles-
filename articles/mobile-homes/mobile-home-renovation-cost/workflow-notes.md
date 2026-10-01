@@ -72,4 +72,6 @@ Searches run: "mobile home renovation cost"; "how much does it cost to remodel a
 - Real renovator account: **unresolved [USER EXPERIENCE NEEDED]** and **[CASE STUDY NEEDED]**. The search cap was reached before a forum/Reddit search, and WebFetch is blocked.
 
 ## Final word count check
-article.md body (excluding front matter and URLs, including H1, headings, and tags): **1,734 words**. Target was 1,700–1,800, so it is within range. No gap statement is needed. The "What Real Renovators Say" section is thin (~70 words) because of the unresolved [USER EXPERIENCE NEEDED] and [CASE STUDY NEEDED] tags. Once a real account is added, that section should grow by roughly 100–150 words.
+**Updated after QA pass (2026-10-01):** article.md body (excluding front matter, including H1, headings, tags and link markup) is **1,861 words** by `wc -w`. Target was 1,700–1,800; that is within the ±10% tolerance (1,530–1,980). The increase comes from resolving the full gut, kitchen/bath, skirting and real-renovator tags. [CASE STUDY NEEDED] is still open in "What Real Renovators Say". See qa-report.md for details.
+
+Previous count (before QA): 1,734 words.
