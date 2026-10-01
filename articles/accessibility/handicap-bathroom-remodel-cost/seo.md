@@ -21,15 +21,15 @@ handicap-bathroom-remodel-cost
 Each question covers an adjacent or edge-case topic that no H2 or H3 answers directly. The answers use only facts already in the article.
 
 1. **Can I install grab bars myself?**
-   Grab bars must anchor into studs or solid blocking, not drywall alone. Tile also makes drilling harder, so a pro install is the safer choice, especially on tiled walls. (HomeGuide puts a professional install at $100 to $350 per bar.)
+   HomeGuide puts a professional install at $100 to $350 per bar. Porcelain or stone tile is harder to drill without cracking and can add fees, so a pro install is the safer choice, especially on tiled walls.
 2. **How wide should a bathroom door be for a wheelchair?**
    32 inches is the ADA minimum width, and 36 inches works better for power chairs. Angi estimates widening a doorway to 32 inches at $300 to $1,000, and to 36 inches at $600 to $2,500.
 3. **Do I need a 60-inch turning circle in a home bathroom?**
-   The U.S. Access Board's ADA guide calls for either a 60-inch circle or a T-shaped turning space. Private homes generally don't have to follow ADA standards (verify locally), so you can size the space around the actual wheelchair or walker.
+   The U.S. Access Board's ADA guide calls for either a 60-inch circle or a T-shaped turning space. In a home, ask your local building department which rules apply, and size the space around the actual wheelchair or walker.
 4. **Who should I hire for an accessible bathroom remodel?**
    Look for a contractor with accessibility experience, such as a Certified Aging-in-Place Specialist (CAPS). Ask for an itemized bid. Use a licensed electrician for any wiring, and have a licensed contractor or structural engineer assess any wall or floor framing changes.
 
-Note: the FAQ 3 answer relies on the article's [VERIFY]-tagged claim about the ADA and private homes. The FAQ 4 answer relies on the [VERIFY]-tagged description of CAPS. Resolve both tags before you publish this schema.
+Note: QA pass removed the FAQ answers' reliance on [VERIFY]-tagged claims (grab bar anchoring, ADA in private homes). The CAPS description is now sourced to NAHB in the article.
 
 ```json
 {
@@ -41,7 +41,7 @@ Note: the FAQ 3 answer relies on the article's [VERIFY]-tagged claim about the A
       "name": "Can I install grab bars myself?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Grab bars must anchor into studs or solid blocking, not drywall alone, and tile makes drilling harder. A professional install, about $100 to $350 per bar according to HomeGuide, is the safer choice, especially on tiled walls."
+        "text": "HomeGuide puts a professional grab bar install at $100 to $350 per bar. Porcelain or stone tile is harder to drill without cracking and can add fees, so a pro install is the safer choice, especially on tiled walls."
       }
     },
     {
@@ -57,7 +57,7 @@ Note: the FAQ 3 answer relies on the article's [VERIFY]-tagged claim about the A
       "name": "Do I need a 60-inch turning circle in a home bathroom?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The U.S. Access Board's ADA guide calls for either a 60-inch circle or a T-shaped turning space. Private homes generally don't have to follow ADA standards, so you can size the space around the actual wheelchair or walker; check local codes first."
+        "text": "The U.S. Access Board's ADA guide calls for either a 60-inch circle or a T-shaped turning space. In a home, ask your local building department which rules apply, and size the space around the actual wheelchair or walker."
       }
     },
     {
@@ -135,4 +135,5 @@ The brief has no pillar/cluster field, so this is a suggestion based on the cate
 - How to hire and vet a remodeling contractor
 - Bathroom remodel permits: what needs one
 - Grants and financing for home accessibility modifications
-- Widening interior doorways (general remodeling guide)
+- Doorway widths for wheelchair access: /width-of-doorways-for-wheelchair-access/
+- Pocket doors for a small bathroom (a space-saving door option): /pocket-door-for-small-bathroom/

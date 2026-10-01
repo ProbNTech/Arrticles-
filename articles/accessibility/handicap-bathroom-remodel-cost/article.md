@@ -11,9 +11,9 @@ brief: ../../../briefs/accessibility/handicap-bathroom-remodel-cost.md
 
 Maybe your dad just came home after a hip replacement, and the tub he has stepped over for 30 years suddenly looks like a wall. Or maybe you use a wheelchair and you're tired of a bathroom door that only lets you in after a fight. Either way, you need two answers fast. What will a handicap bathroom remodel cost, and how much of that work does your situation really need?
 
-Prices swing a lot. A few grab bars and a full roll-in shower conversion both count as "accessibility upgrades," but they sit in very different budgets. Our editorial team pulled current figures from national cost guides, federal design standards, and injury research to help you sort out what matters. Later, we'll also look at what documented projects reveal about where budgets tend to slip. First, the big picture.
+Prices swing a lot. A few grab bars and a full roll-in shower conversion both count as "accessibility upgrades," but they sit in very different budgets. Our editorial team pulled current figures from national cost guides, federal design standards, and injury research to help you sort out what matters. Later, we'll also look at what injury data says about where to spend first. First, the big picture.
 
-> **Quick answer:** A handicap bathroom remodel typically costs $5,600 to $12,000, according to [Angi's 2026 handicap bathroom cost guide](https://www.angi.com/articles/remodel-bathroom-handicap-accessible-cost.htm). Simple safety upgrades like grab bars cost far less, while a full conversion with a roll-in shower and a wider doorway can cost more. Hire licensed pros for any electrical, plumbing, or structural work.
+> **Quick answer:** A full handicap bathroom remodel typically costs $5,600 to $12,000, according to [Angi's 2026 handicap bathroom cost guide](https://www.angi.com/articles/remodel-bathroom-handicap-accessible-cost.htm). Lighter updates, like adding grab bars or non-slip mats, run about $1,500 to $8,000. Large custom jobs can cost more. Hire licensed pros for any electrical, plumbing, or structural work.
 
 ## How Much Does a Handicap Bathroom Remodel Cost?
 
@@ -23,9 +23,9 @@ Why so wide? Because "accessible" means different things to different people. Ho
 
 It helps to think in three levels:
 
-- **Safety upgrades.** Grab bars, a raised toilet seat, a handheld showerhead, and maybe a shower bench. This is the low end of the range. A typical total for this level is [COST NEEDED].
-- **Targeted modification.** Swapping a tub for a low-threshold or roll-in shower, plus a taller toilet. This is where most mid-range budgets land. [COST NEEDED]
-- **Full remodel.** A new layout, a wider door, a roll-in shower, and a wall-mounted sink for wheelchair access. This can push past the top of both ranges above. [COST NEEDED]
+- **Safety upgrades.** Grab bars, a raised toilet seat, a handheld showerhead, and maybe a shower bench. Angi prices this kind of lighter renovation (adding grab bars, swapping faucets, or using non-slip mats) at [$1,500 to $8,000](https://www.angi.com/articles/remodel-bathroom-handicap-accessible-cost.htm).
+- **Targeted modification.** Swapping a tub for a low-threshold or roll-in shower, plus a taller toilet. We found no guide that prices this level as a package. A standard roll-in shower alone runs $2,900 to $6,600, as covered below.
+- **Full remodel.** A new layout, a wider door, a roll-in shower, and a wall-mounted sink for wheelchair access. Angi's [$5,600 to $12,000 range](https://www.angi.com/articles/remodel-bathroom-handicap-accessible-cost.htm) covers this kind of major change, such as widening doorways, moving plumbing, or adding a roll-in shower. Large or custom jobs can climb toward HomeAdvisor's $16,000 top figure.
 
 Once you know your level, it's easier to see where the money goes.
 
@@ -44,7 +44,7 @@ HomeAdvisor splits an accessible bathroom remodeling budget into six main parts.
 
 *Source: [HomeAdvisor's accessible bathroom cost data](https://www.homeadvisor.com/cost/additions-and-remodels/accessible-bathroom/)*
 
-Notice which line has the biggest swing: fixtures. A prefab shower base and a standard comfort-height toilet sit near the bottom of that $3,000–$15,000 range. A custom tiled shower, a wall-hung sink, and specialty fixtures push you toward the top.
+Not every project needs every line, so a small job can total less than these rows added together. Notice which line has the biggest swing: fixtures. A prefab shower base and a standard comfort-height toilet sit near the bottom of that $3,000–$15,000 range. A custom tiled shower, a wall-hung sink, and specialty fixtures push you toward the top.
 
 Flooring and finishes, where non-slip flooring and tile land, is the second big line.
 
@@ -116,7 +116,7 @@ The number on an early estimate often grows once walls and floors are open. Watc
 - **Wall blocking.** Adding solid wood behind tile for future grab bars is cheap during a remodel and costly later [COST NEEDED].
 - **Surprises behind walls.** When widening doors, Angi warns about [demolition costs if the project uncovers hidden wiring or water damage](https://www.angi.com/articles/widen-doorway-cost.htm).
 
-A cushion in your budget for these surprises is smart. A common contingency amount is [STAT NEEDED].
+A cushion in your budget for these surprises is smart. A common guideline is to set aside 10% to 20% of the budget for the unexpected [PARTIAL SOURCE: https://www.angi.com/articles/how-much-does-bathroom-remodel-cost.htm — verify before publishing].
 
 Some of these choices matter more than others, and injury data shows why.
 
@@ -136,11 +136,11 @@ The lesson: spend first where the risk is highest, then keep the total in check.
 
 **Choose prefab where it works.** Angi reports that [roll-in shower base kits start as low as $600, and prefab kits run up to $3,200](https://www.angi.com/articles/cost-to-install-accessibility-shower.htm). That's well below the $4,200 to $8,500 for a custom tiled shower. Prefab units also tend to install faster [VERIFY].
 
-**Get several bids.** Ask each contractor for an itemized quote that splits labor costs from materials. Look for a Certified Aging-in-Place Specialist (CAPS), a credential focused on home modifications for older adults and people with mobility challenges [VERIFY].
+**Get several bids.** Ask each contractor for an itemized quote that splits labor costs from materials. Look for a [Certified Aging-in-Place Specialist (CAPS)](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps), a National Association of Home Builders credential that trains remodelers in home modifications for aging in place.
 
 **Look into help with the bill:**
 
-- Veterans with service-connected disabilities may qualify for VA home modification grants [FACT NEEDED].
+- Veterans with disabilities may qualify for [VA disability housing grants](https://www.va.gov/housing-assistance/disability-housing-grants/). The VA's Home Improvements and Structural Alterations (HISA) benefit can help pay for bathroom access changes, with a lifetime limit of up to $6,800 for a service-connected disability [PARTIAL SOURCE: https://www.prosthetics.va.gov/psas/HISA2.asp — verify before publishing].
 - Some state Medicaid waiver programs help pay for home modifications [VERIFY].
 - Original Medicare generally doesn't pay for bathroom remodels or grab bars [VERIFY].
 - Some accessibility home improvements may count as deductible medical expenses on your federal taxes [VERIFY].

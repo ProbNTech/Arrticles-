@@ -200,7 +200,7 @@ Searches for the VA HISA, IRS Pub 502, and Medicare coverage were attempted but 
 
 ## Final word count check
 
-- **Article body** (H1 through disclosure, excluding front matter and URLs): about 2,096 words.
-- **Target:** 2,000–2,100. Within range.
-- **Tags:** about 25 words of the body are placeholder tags. Without them the body is about 2,070 words, which is still within range.
-- **Gap statement:** Not required, since the article is not >10% under target.
+- **Article body** (H1 through disclosure, excluding front matter and URLs), after the QA pass: 2,193 words (`wc -w`).
+- **Target:** 2,000–2,100. This is about 4% over the top of the range, which is within the ±10% tolerance (1,800–2,310).
+- **Change:** The QA pass added about 100 words. Most of them came from resolved cost tiers, the CAPS and VA citations, and the contingency figure.
+- **Gap statement:** Not required.
