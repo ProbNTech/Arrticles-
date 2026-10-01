@@ -106,9 +106,24 @@ The brief has no pillar/cluster field, so this is a suggestion based on the cate
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Accessibility", "item": "{{SITE_URL}}/accessibility/" },
-    { "@type": "ListItem", "position": 3, "name": "Handicap Bathroom Remodel Cost", "item": "{{SITE_URL}}/accessibility/handicap-bathroom-remodel-cost/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Accessibility",
+      "item": "{{SITE_URL}}/accessibility/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Handicap Bathroom Remodel Cost",
+      "item": "{{SITE_URL}}/handicap-bathroom-remodel-cost/"
+    }
   ]
 }
 ```

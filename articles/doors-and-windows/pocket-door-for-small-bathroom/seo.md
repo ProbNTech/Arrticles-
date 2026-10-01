@@ -89,9 +89,24 @@ The brief has no pillar/cluster field. This suggestion assumes the category fold
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "{{SITE_URL}}/doors-and-windows/" },
-    { "@type": "ListItem", "position": 3, "name": "Pocket Door for Small Bathroom", "item": "{{SITE_URL}}/doors-and-windows/pocket-door-for-small-bathroom/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Doors and Windows",
+      "item": "{{SITE_URL}}/doors-and-windows/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Pocket Door for Small Bathroom",
+      "item": "{{SITE_URL}}/pocket-door-for-small-bathroom/"
+    }
   ]
 }
 ```
@@ -106,7 +121,7 @@ The brief has no pillar/cluster field. This suggestion assumes the category fold
 Sibling articles (relative paths):
 - Accessible bathrooms and walker/wheelchair access: [handicap bathroom remodel cost](/handicap-bathroom-remodel-cost/)
 - Door widths for accessibility: [width of doorways for wheelchair access](/width-of-doorways-for-wheelchair-access/)
-- Load-bearing walls (wall-requirements section): [can you remove walls in a mobile home](/can-you-remove-walls-in-a-mobile-home/)
+- Load-bearing walls (wall-requirements section): [can you remove walls in a mobile home](/remove-walls-in-mobile-home/)
 - Interior updates: [how to modernize your home interior](/how-to-modernize-your-home-interior/)
 - Space-saving doors in closets: [walk-in closet dimensions](/walk-in-closet-dimensions/)
 

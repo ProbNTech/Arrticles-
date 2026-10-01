@@ -103,7 +103,7 @@ The brief has no pillar/cluster field. If the site places this article under its
       "@type": "ListItem",
       "position": 3,
       "name": "Walk-In Closet Dimensions: Sizes for Every Layout",
-      "item": "{{SITE_URL}}/interior-design-and-lighting/walk-in-closet-dimensions/"
+      "item": "{{SITE_URL}}/walk-in-closet-dimensions/"
     }
   ]
 }
@@ -126,7 +126,7 @@ The brief has no pillar/cluster field. If the site places this article under its
 - Master bedroom layout and size planning
 - Small closet organization ideas
 - Converting a spare bedroom into a dressing room or walk-in closet
-- How to tell if a wall is load-bearing; related sibling: [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/)
+- How to tell if a wall is load-bearing; related sibling: [Can you remove walls in a mobile home?](/remove-walls-in-mobile-home/)
 - Custom closet systems vs. DIY closet organizers
 - Accessibility planning: [Width of doorways for wheelchair access](/width-of-doorways-for-wheelchair-access/)
 - Whole-home updates: [How to modernize your home interior](/how-to-modernize-your-home-interior/)

@@ -89,9 +89,24 @@ No pillar/cluster field was given in the brief; this is a suggestion based on th
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "{{SITE_URL}}/mobile-homes/" },
-    { "@type": "ListItem", "position": 3, "name": "Mobile Home Renovation Cost", "item": "{{SITE_URL}}/mobile-homes/mobile-home-renovation-cost/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mobile Homes",
+      "item": "{{SITE_URL}}/mobile-homes/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Mobile Home Renovation Cost",
+      "item": "{{SITE_URL}}/mobile-home-renovation-cost/"
+    }
   ]
 }
 ```
@@ -105,7 +120,7 @@ No pillar/cluster field was given in the brief; this is a suggestion based on th
 ## 9. Internal link suggestions
 - Mobile home roof replacement cost: `/mobile-home-roof-replacement-cost/` (already linked from the Roof Replacement section)
 - Kitchen ideas for a mobile home remodel: `/kitchen-ideas-for-mobile-home-remodel/` (link from the Kitchen and Bathroom Remodels section)
-- Can you remove walls in a mobile home?: `/can-you-remove-walls-in-a-mobile-home/` (link from the DIY section's load-bearing wall note)
+- Can you remove walls in a mobile home?: `/remove-walls-in-mobile-home/` (link from the DIY section's load-bearing wall note)
 - How to install hardwood flooring: `/how-to-install-hardwood-flooring/` (link from the Flooring and Subfloor section)
 - How to modernize your home interior: `/how-to-modernize-your-home-interior/` (link from the cosmetic refresh tier)
 - Handicap bathroom remodel cost: `/handicap-bathroom-remodel-cost/` (link from the bathroom paragraph for accessibility upgrades)

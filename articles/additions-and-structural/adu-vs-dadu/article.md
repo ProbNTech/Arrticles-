@@ -1,6 +1,6 @@
 ---
 title: "ADU vs DADU: Key Differences, Costs and How to Choose"
-slug: adu-vs-dadu-differences-costs
+slug: adu-vs-dadu
 meta_description: "ADU vs DADU explained: how attached and detached units differ in cost, privacy, rental income and zoning, plus how to pick the right one for your lot."
 target_keyword: "adu vs dadu"
 category: additions-and-structural

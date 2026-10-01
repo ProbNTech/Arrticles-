@@ -109,7 +109,7 @@ The brief has no pillar/cluster field, so this is a suggestion only (Home > Cate
 ## 9. Internal link suggestions
 Sibling articles on this site (relative paths):
 - [Width of doorways for wheelchair access](/width-of-doorways-for-wheelchair-access/): link from the door-size / single vs. double door discussion
-- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/): link from the structural note on widening an opening
+- [Can you remove walls in a mobile home?](/remove-walls-in-mobile-home/): link from the structural note on widening an opening
 - [How to modernize your home interior](/how-to-modernize-your-home-interior/): link from the modern design / slim frames discussion
 - [How to mimic sunlight indoors](/how-to-mimic-sunlight-indoors/): link from the natural light point
 - [3-season vs. 4-season room](/3-season-vs-4-season-room/): link from the patio / climate discussion

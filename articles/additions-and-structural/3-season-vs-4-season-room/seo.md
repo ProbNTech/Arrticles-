@@ -87,9 +87,22 @@ Not applicable. Search intent is Informational / Commercial Investigation, not h
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home" },
-    { "@type": "ListItem", "position": 2, "name": "Additions and Structural" },
-    { "@type": "ListItem", "position": 3, "name": "3 Season vs 4 Season Room: Key Differences & Costs" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Additions and Structural"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "3 Season vs 4 Season Room: Key Differences & Costs",
+      "item": "{{SITE_URL}}/3-season-vs-4-season-room/"
+    }
   ]
 }
 ```

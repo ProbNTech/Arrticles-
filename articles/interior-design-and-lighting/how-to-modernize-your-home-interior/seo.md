@@ -123,7 +123,7 @@ The brief has no pillar/cluster field; this is offered as a suggestion based on 
       "@type": "ListItem",
       "position": 3,
       "name": "How to Modernize Your Home Interior",
-      "item": "{{SITE_URL}}/interior-design-and-lighting/how-to-modernize-your-home-interior/"
+      "item": "{{SITE_URL}}/how-to-modernize-your-home-interior/"
     }
   ]
 }
@@ -147,7 +147,7 @@ Sibling articles on this site (relative paths):
 - [/how-to-mimic-sunlight-indoors/](/how-to-mimic-sunlight-indoors/) (from "Choose the Right Bulb" and the layered-lighting intro)
 - [/how-to-install-hardwood-flooring/](/how-to-install-hardwood-flooring/) (from the floors section)
 - [/kitchen-ideas-for-mobile-home-remodel/](/kitchen-ideas-for-mobile-home-remodel/) (from "How Can You Modernize a Kitchen and Bathroom on a Budget?")
-- [/can-you-remove-walls-in-a-mobile-home/](/can-you-remove-walls-in-a-mobile-home/) (from the kitchen wall-removal safety note)
+- [/remove-walls-in-mobile-home/](/remove-walls-in-mobile-home/) (from the kitchen wall-removal safety note)
 - [/pocket-door-for-small-bathroom/](/pocket-door-for-small-bathroom/) (from the bathroom bullets or the interior-doors paint tip)
 - [/mobile-home-renovation-cost/](/mobile-home-renovation-cost/) (from "Which Home Updates Should You Do First?", for readers budgeting a larger renovation)
 

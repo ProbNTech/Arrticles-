@@ -92,9 +92,22 @@ The brief has no pillar/cluster field. The article sits in the mobile-homes cate
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes" },
-    { "@type": "ListItem", "position": 3, "name": "Mobile Home Roof Replacement Cost" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mobile Homes"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Mobile Home Roof Replacement Cost",
+      "item": "{{SITE_URL}}/mobile-home-roof-replacement-cost/"
+    }
   ]
 }
 ```
@@ -107,7 +120,7 @@ The brief has no pillar/cluster field. The article sits in the mobile-homes cate
 
 ## 9. Internal link suggestions
 - [Mobile home renovation cost](/mobile-home-renovation-cost/): link from the intro or "What Can Increase the Cost" (budgeting a roof within a larger remodel)
-- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/): link from the data plate / roof structure discussion (load-bearing and truss concerns)
+- [Can you remove walls in a mobile home?](/remove-walls-in-mobile-home/): link from the data plate / roof structure discussion (load-bearing and truss concerns)
 - [Kitchen ideas for mobile home remodel](/kitchen-ideas-for-mobile-home-remodel/): optional, from "The Bottom Line" as a related mobile home project
 - Plain suggestions (no sibling article yet):
   - Mobile home roof coating: types, cost, and how often to recoat

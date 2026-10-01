@@ -7,7 +7,7 @@ ADU vs DADU: Key Differences, Costs and How to Choose (52 characters)
 ADU vs DADU explained: how attached and detached units differ in cost, privacy, rental income and zoning, plus how to pick the right one for your lot. (152 characters)
 
 ## 3. URL slug
-adu-vs-dadu-differences-costs
+adu-vs-dadu
 
 ## 4. FAQ schema suggestions
 Three edge-case/follow-up questions not answered as dedicated sections in the body (a fourth candidate on building both types on one lot was dropped as redundant with the zoning section). Answers use only information established in the article.
@@ -79,9 +79,24 @@ Home > Additions and Structural > ADU vs DADU (`{{SITE_URL}}` is a placeholder f
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Additions and Structural", "item": "{{SITE_URL}}/additions-and-structural/" },
-    { "@type": "ListItem", "position": 3, "name": "ADU vs DADU", "item": "{{SITE_URL}}/additions-and-structural/adu-vs-dadu-differences-costs/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Additions and Structural",
+      "item": "{{SITE_URL}}/additions-and-structural/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "ADU vs DADU",
+      "item": "{{SITE_URL}}/adu-vs-dadu/"
+    }
   ]
 }
 ```

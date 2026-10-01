@@ -94,9 +94,24 @@ The brief has no pillar/cluster field. This is offered as an optional suggestion
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "{{SITE_URL}}/mobile-homes/" },
-    { "@type": "ListItem", "position": 3, "name": "Kitchen Ideas for Mobile Home Remodel", "item": "{{SITE_URL}}/mobile-homes/kitchen-ideas-for-mobile-home-remodel/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mobile Homes",
+      "item": "{{SITE_URL}}/mobile-homes/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Kitchen Ideas for Mobile Home Remodel",
+      "item": "{{SITE_URL}}/kitchen-ideas-for-mobile-home-remodel/"
+    }
   ]
 }
 ```
@@ -110,7 +125,7 @@ The brief has no pillar/cluster field. This is offered as an optional suggestion
 ## 9. Internal link suggestions
 Sibling articles (link with these relative paths):
 - [Mobile home renovation cost](/mobile-home-renovation-cost/) (from the cost section)
-- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/) (from the wall-framing and structural safety notes)
+- [Can you remove walls in a mobile home?](/remove-walls-in-mobile-home/) (from the wall-framing and structural safety notes)
 - [How to modernize your home interior](/how-to-modernize-your-home-interior/) (from the budget-friendly ideas section)
 - [How to mimic sunlight indoors](/how-to-mimic-sunlight-indoors/) (from the lighting section)
 

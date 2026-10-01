@@ -156,9 +156,24 @@ totalTime omitted (no sourced time estimate; the article's time note carries [VE
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Flooring and Stairs", "item": "{{SITE_URL}}/flooring-and-stairs/" },
-    { "@type": "ListItem", "position": 3, "name": "How to Install Hardwood Flooring", "item": "{{SITE_URL}}/flooring-and-stairs/how-to-install-hardwood-flooring/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Flooring and Stairs",
+      "item": "{{SITE_URL}}/flooring-and-stairs/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "How to Install Hardwood Flooring",
+      "item": "{{SITE_URL}}/how-to-install-hardwood-flooring/"
+    }
   ]
 }
 ```

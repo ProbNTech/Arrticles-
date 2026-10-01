@@ -92,9 +92,24 @@ Home > Doors and Windows > Ideas for Window Well Covers. Use the site's real URL
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}" },
-    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "{{SITE_URL}}/doors-and-windows/" },
-    { "@type": "ListItem", "position": 3, "name": "Ideas for Window Well Covers", "item": "{{SITE_URL}}/doors-and-windows/ideas-for-window-well-covers/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Doors and Windows",
+      "item": "{{SITE_URL}}/doors-and-windows/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Ideas for Window Well Covers",
+      "item": "{{SITE_URL}}/ideas-for-window-well-covers/"
+    }
   ]
 }
 ```

@@ -73,6 +73,6 @@ The homeowners behind the Rocky Hedge Farm blog documented [removing the marriag
 
 Every home is built differently, so use stories like this to prepare questions for your engineer, not to replace one.
 
-Whatever wall you're eyeing, the most useful thing you can do is find out what it does before you pick up a hammer. Locate your home's data plate, note the serial number and manufacturer, and ask for the original floor plan. Then call your local building department and ask what they require for removing an interior wall. With those two answers in hand, you'll know whether you're looking at a weekend refresh or a job for a structural engineer.
+Whatever wall you're eyeing, the most useful thing you can do is find out what it does before you pick up a hammer. Locate your home's data plate, note the serial number and manufacturer, and ask for the original floor plan. Then call your local building department and ask what they require for removing an interior wall. With those two answers in hand, you'll know if it's a weekend refresh or a job for a structural engineer.
 
 *Reviewed by our editorial team, informed by licensed professionals and industry sources cited above.*

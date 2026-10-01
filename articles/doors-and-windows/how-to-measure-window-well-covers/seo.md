@@ -148,9 +148,24 @@ Home > Doors and Windows > How to Measure Window Well Covers. No domain was prov
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}" },
-    { "@type": "ListItem", "position": 2, "name": "Doors and Windows", "item": "{{SITE_URL}}/doors-and-windows/" },
-    { "@type": "ListItem", "position": 3, "name": "How to Measure Window Well Covers", "item": "{{SITE_URL}}/doors-and-windows/how-to-measure-window-well-covers/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Doors and Windows",
+      "item": "{{SITE_URL}}/doors-and-windows/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "How to Measure Window Well Covers",
+      "item": "{{SITE_URL}}/how-to-measure-window-well-covers/"
+    }
   ]
 }
 ```

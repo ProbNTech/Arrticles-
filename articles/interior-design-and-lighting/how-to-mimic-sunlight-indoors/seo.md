@@ -92,9 +92,24 @@ The brief has no pillar/cluster field. This is a suggestion based on the categor
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Interior Design and Lighting", "item": "{{SITE_URL}}/interior-design-and-lighting/" },
-    { "@type": "ListItem", "position": 3, "name": "How to Mimic Sunlight Indoors", "item": "{{SITE_URL}}/interior-design-and-lighting/how-to-mimic-sunlight-indoors/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Interior Design and Lighting",
+      "item": "{{SITE_URL}}/interior-design-and-lighting/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "How to Mimic Sunlight Indoors",
+      "item": "{{SITE_URL}}/how-to-mimic-sunlight-indoors/"
+    }
   ]
 }
 ```

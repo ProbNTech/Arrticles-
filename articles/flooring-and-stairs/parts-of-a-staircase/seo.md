@@ -95,9 +95,22 @@ Home > Flooring and Stairs > What Are the Parts of a Staircase Called? (URLs lef
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home" },
-    { "@type": "ListItem", "position": 2, "name": "Flooring and Stairs" },
-    { "@type": "ListItem", "position": 3, "name": "What Are the Parts of a Staircase Called?" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Flooring and Stairs"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "What Are the Parts of a Staircase Called?",
+      "item": "{{SITE_URL}}/parts-of-a-staircase/"
+    }
   ]
 }
 ```

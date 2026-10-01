@@ -93,9 +93,24 @@ No pillar/cluster field was given in the brief; suggested structure if this sits
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Accessibility", "item": "{{SITE_URL}}/accessibility/" },
-    { "@type": "ListItem", "position": 3, "name": "Width of Doorways for Wheelchair Access", "item": "{{SITE_URL}}/accessibility/width-of-doorways-for-wheelchair-access/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Accessibility",
+      "item": "{{SITE_URL}}/accessibility/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Width of Doorways for Wheelchair Access",
+      "item": "{{SITE_URL}}/width-of-doorways-for-wheelchair-access/"
+    }
   ]
 }
 ```
@@ -109,7 +124,7 @@ No pillar/cluster field was given in the brief; suggested structure if this sits
 ## 9. Internal link suggestions
 - [Handicap bathroom remodel cost](/handicap-bathroom-remodel-cost/) - from the turning-space and bathroom mentions
 - [Pocket door for a small bathroom](/pocket-door-for-small-bathroom/) - from "Remove the door or change the swing"
-- [Can you remove walls in a mobile home?](/can-you-remove-walls-in-a-mobile-home/) - from the load-bearing wall note in "Widen the opening" (relevant for mobile-home readers)
+- [Can you remove walls in a mobile home?](/remove-walls-in-mobile-home/) - from the load-bearing wall note in "Widen the opening" (relevant for mobile-home readers)
 - How to build or buy a wheelchair ramp for your home's entry
 - How to tell if a wall is load-bearing (and when to call a pro)
 - Lever door handles and other aging-in-place hardware upgrades

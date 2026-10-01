@@ -151,9 +151,24 @@ The brief has no pillar/cluster field. The breadcrumb below is suggested from th
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
-    { "@type": "ListItem", "position": 2, "name": "Mobile Homes", "item": "{{SITE_URL}}/mobile-homes/" },
-    { "@type": "ListItem", "position": 3, "name": "Can You Remove Walls in a Mobile Home?", "item": "{{SITE_URL}}/mobile-homes/remove-walls-in-mobile-home/" }
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{SITE_URL}}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Mobile Homes",
+      "item": "{{SITE_URL}}/mobile-homes/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Can You Remove Walls in a Mobile Home?",
+      "item": "{{SITE_URL}}/remove-walls-in-mobile-home/"
+    }
   ]
 }
 ```
