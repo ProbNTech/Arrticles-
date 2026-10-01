@@ -1,0 +1,7 @@
+{
+  "name": "arrticles-tools",
+  "private": true,
+  "description": "Build Word (.docx) versions of the articles",
+  "scripts": { "build-docx": "node build-docx.js .." },
+  "dependencies": { "docx": "^9.8.1", "marked": "^18.0.14" }
+}

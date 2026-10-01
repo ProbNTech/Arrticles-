@@ -79,6 +79,16 @@ These were copied exactly as they appear in the Google Docs. Fix them in the doc
 - **How to mimic sunlight indoors**: the word count is still the placeholder `[WORDS]`.
 - **Pocket door for small bathroom**: the word count reads `12000-1300`, which is probably a typo for `1200-1300`.
 
+## Word documents
+
+Each article also exists as a Word file in `docx/<category>/<slug>.docx` (US Letter, with page numbers). Each file starts with an SEO details table: SEO title, meta description, slug and target keyword. The article follows, with headings, tables, the Quick Answer box and clickable source links. Open placeholder tags are **highlighted in yellow** so editors can find them quickly.
+
+To rebuild after editing an `article.md`:
+
+```bash
+cd tools && npm install && npm run build-docx
+```
+
 ## Articles (drafts, QA'd)
 
 Each brief has a written article in `articles/<category>/<slug>/`:
